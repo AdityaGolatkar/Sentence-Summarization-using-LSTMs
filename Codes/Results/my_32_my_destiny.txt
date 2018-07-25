@@ -1,0 +1,3500 @@
+Actual Sentence :
+The Australian Treasury believes positive signs are emerging in the Australian economy
+Actual Summary :
+Positive signs are emerging
+Our summary :
+['positive', 'signs', 'are', 'emerging', 'in', 'the', 'Australian', 'economy']
+
+Actual Sentence :
+Vine the mobile app owned by Twitter has banned sexually explicit content effective immediately
+Actual Summary :
+Vine has banned sexually explicit content
+Our summary :
+['Vine', 'has', 'banned', 'sexually', 'explicit', 'content', 'effective']
+
+Actual Sentence :
+The Columbus Blue Jackets have hired prominent player agent Bill Zito as assistant general manager
+Actual Summary :
+The Columbus Blue Jackets have hired player agent Bill Zito as assistant general manager
+Our summary :
+['The', 'Columbus', 'Blue', 'Jackets', 'have', 'hired', 'Bill', 'Zito', 'as', 'assistant', 'general', 'manager']
+
+Actual Sentence :
+Pita restaurant chain Pita Pit has closed in Edwardsville
+Actual Summary :
+Pita Pit has closed in Edwardsville
+Our summary :
+['Pita', 'Pit', 'has', 'closed', 'in', 'Edwardsville']
+
+Actual Sentence :
+Gareth Bale has conceded that he enjoys the expectation on his shoulders at Real Madrid
+Actual Summary :
+Gareth Bale enjoys the expectation
+Our summary :
+['Gareth', 'Bale', 'enjoys', 'the', 'expectation', 'Madrid']
+
+Actual Sentence :
+Mayors from cities across Kansas urge members of Congress to pass comprehensive immigration reform
+Actual Summary :
+Mayors urge members of Congress to pass immigration reform
+Our summary :
+['Mayors', 'urge', 'members', 'of', 'to', 'pass', 'comprehensive', 'immigration', 'reform']
+
+Actual Sentence :
+Early childhood education is vital to your child s development
+Actual Summary :
+Early education is vital
+Our summary :
+['childhood', 'education', 'is', 'vital']
+
+Actual Sentence :
+An empty tanker caught fire Wednesday night in a garage along W Va
+Actual Summary :
+An tanker caught fire in a garage
+Our summary :
+['An', 'tanker', 'caught', 'fire', 'in', 'a', 'garage']
+
+Actual Sentence :
+Today Sony introduced the world s first curved screen LED television model KDL 65S990A
+Actual Summary :
+Sony introduced the world s first curved screen LED television
+Our summary :
+['Sony', 'introduced', 'the', 'world', 's', 'curved', 'screen', 'LED', 'model', 'KDL']
+
+Actual Sentence :
+A Dartmouth man is facing child pornography charges after police searched his home Wednesday morning
+Actual Summary :
+A Dartmouth man is facing child pornography charges
+Our summary :
+['A', 'Dartmouth', 'man', 'is', 'facing', 'child', 'pornography', 'charges']
+
+Actual Sentence :
+Eni has won a license for exploration block SM 857 offshore Brazil
+Actual Summary :
+Eni has won a license 857 offshore Brazil
+Our summary :
+['Eni', 'has', 'won', 'a', 'license', 'for', 'exploration', 'block']
+
+Actual Sentence :
+The Phillies want to keep Chase Utley but other teams are interested in acquiring him
+Actual Summary :
+The Phillies want to keep Chase Utley
+Our summary :
+['The', 'Phillies', 'want', 'to', 'keep', 'Chase', 'Utley']
+
+Actual Sentence :
+After weeks of rumors and expectations Google has officially introduced Android 4 3 Jelly Bean
+Actual Summary :
+Google has officially introduced Android 4 3 Jelly Bean
+Our summary :
+['Google', 'has', 'introduced', 'Android', '4', '3', 'Jelly', 'Bean']
+
+Actual Sentence :
+It s tax day the deadline to file your federal taxes
+Actual Summary :
+It s tax day
+Our summary :
+['It', 's', 'tax', 'day', 'the', 'deadline', 'to', 'file', 'your', 'taxes']
+
+Actual Sentence :
+Big Cinemas a division of Reliance MediaWorks has entered washroom advertising
+Actual Summary :
+Big Cinemas has entered washroom advertising
+Our summary :
+['Big', 'Cinemas', 'has', 'entered', 'washroom', 'advertising']
+
+Actual Sentence :
+For the first time in Olympic history the Olympic torch has been launched into space
+Actual Summary :
+The Olympic torch has been launched into space
+Our summary :
+['the', 'Olympic', 'torch', 'has', 'been', 'launched', 'into', 'space']
+
+Actual Sentence :
+The UPA chairperson alleged that the BJP only makes promises while the Congress delivers
+Actual Summary :
+The BJP makes promises while the Congress delivers
+Our summary :
+['The', 'UPA', 'chairperson', 'the', 'BJP', 'makes', 'promises', 'while', 'the', 'Congress']
+
+Actual Sentence :
+The carbon capture and storage project at the Boundary Dam Power Station is nearing completion
+Actual Summary :
+The carbon capture and storage project is nearing completion
+Our summary :
+['The', 'carbon', 'capture', 'and', 'storage', 'project', 'is', 'nearing', 'completion']
+
+Actual Sentence :
+A Webster County man was killed in a motorcycle crash in Nicholas County deputies say
+Actual Summary :
+A Webster County man was killed in a motorcycle crash in Nicholas County
+Our summary :
+['A', 'Webster', 'County', 'man', 'was', 'killed', 'in', 'a', 'motorcycle', 'crash']
+
+Actual Sentence :
+Kanye West was born in Atlanta to Donda and Ray West
+Actual Summary :
+Kanye West was born
+Our summary :
+['Kanye', 'West', 'was', 'born', 'in', 'Atlanta']
+
+Actual Sentence :
+Pakistan Railways has recovered stolen track worth Rs 9 million during last few months
+Actual Summary :
+Pakistan Railways has recovered stolen track worth Rs 9 million
+Our summary :
+['Pakistan', 'Railways', 'has', 'recovered', 'stolen', 'track']
+
+Actual Sentence :
+DeLaet tied second at The Barclays a new career high for the former Weyburn resident
+Actual Summary :
+DeLaet tied second at The Barclays a new career high
+Our summary :
+['DeLaet', 'tied', 'second', 'at', 'The', 'Barclays', 'a', 'career']
+
+Actual Sentence :
+George Michael has topped the UK album charts with his new album Symphonica
+Actual Summary :
+George Michael has topped the UK album charts
+Our summary :
+['George', 'Michael', 'has', 'topped', 'the', 'UK', 'album', 'charts', 'with', 'Symphonica']
+
+Actual Sentence :
+A road was briefly closed after a two vehicle car crash in Staining on Monday
+Actual Summary :
+A road was closed after a crash
+Our summary :
+['A', 'road', 'was', 'closed', 'after', 'a', 'two', 'car', 'crash']
+
+Actual Sentence :
+A report released Monday ranks quality scores from domestic airlines
+Actual Summary :
+A report ranks from domestic airlines
+Our summary :
+['A', 'report', 'released', 'ranks', 'quality', 'scores', 'from', 'domestic', 'airlines']
+
+Actual Sentence :
+And as this infographic shows the best things in life aren t free
+Actual Summary :
+The best things in life aren t free
+Our summary :
+['the', 'things', 'in', 'life', 'aren', 't', 'free']
+
+Actual Sentence :
+We found that This payday loan illinois rollover or refinance had 17 external links
+Actual Summary :
+This payday loan illinois rollover or refinance had
+Our summary :
+['This', 'payday', 'loan', 'illinois', 'rollover', 'or', 'refinance', 'had', '17', 'external', 'links']
+
+Actual Sentence :
+Highwoods Properties Inc issued an update on its FY14 earnings guidance on Tuesday morning
+Actual Summary :
+Highwoods Properties Inc issued on its FY14 earnings guidance
+Our summary :
+['Highwoods', 'Properties', 'Inc', 'issued', 'on', 'its', 'FY14', 'earnings', 'guidance']
+
+Actual Sentence :
+Stocks to watch on the Australian stock exchange at the close on Tuesday
+Actual Summary :
+Stocks to watch at the close on Tuesday
+Our summary :
+['Stocks', 'to', 'watch', 'on', 'the', 'Australian', 'stock', 'exchange']
+
+Actual Sentence :
+Aretha Franklin celebrated her birthday a few days early Saturday night in New York City
+Actual Summary :
+Aretha Franklin celebrated her birthday in New York City
+Our summary :
+['Aretha', 'Franklin', 'celebrated', 'her', 'birthday', 'a']
+
+Actual Sentence :
+Not just Shahid she has been partying with another former flame Harman Baweja as well
+Actual Summary :
+She has been partying with another flame Harman Baweja
+Our summary :
+['Shahid', 'she', 'has', 'been', 'partying', 'with', 'another', 'former', 'flame', 'Harman', 'Baweja']
+
+Actual Sentence :
+Alyssa Milano revealed Friday that she and husband David Bugliari are expecting their second child
+Actual Summary :
+Alyssa Milano and David Bugliari are expecting their second child
+Our summary :
+['Alyssa', 'Milano', 'and', 'David', 'Bugliari', 'are', 'expecting', 'their', 'second', 'child']
+
+Actual Sentence :
+Today California Governor Jerry Brown signed SB 493 the pharmacist provider status legislation
+Actual Summary :
+Jerry Brown signed SB 493
+Our summary :
+['Jerry', 'Brown', 'signed', 'SB', '493']
+
+Actual Sentence :
+Gwyneth Paltrow will reportedly tour with Coldplay later this year
+Actual Summary :
+Gwyneth Paltrow will tour with Coldplay
+Our summary :
+['Gwyneth', 'Paltrow', 'will', 'tour', 'with', 'Coldplay']
+
+Actual Sentence :
+Cleveland Indians pitcher Justin Masterson is beginning to settle in with his pitches
+Actual Summary :
+Justin Masterson is beginning to settle in
+Our summary :
+['Justin', 'Masterson', 'is', 'beginning', 'to', 'settle']
+
+Actual Sentence :
+iPhone maker Apple is accused of hiding its profits once again
+Actual Summary :
+Maker Apple is accused of hiding its profits again
+Our summary :
+['Apple', 'is', 'accused', 'of', 'hiding', 'its', 'profits']
+
+Actual Sentence :
+John Abraham has been prohibited from using the title Hamara Bajaj for his home production
+Actual Summary :
+John Abraham has been prohibited from using the title Hamara Bajaj
+Our summary :
+['John', 'Abraham', 'has', 'been', 'prohibited', 'from', 'using', 'the', 'title', 'Hamara', 'Bajaj']
+
+Actual Sentence :
+A dog has died after being shot outside a Scarborough home early Sunday morning
+Actual Summary :
+A dog has died after being shot outside a Scarborough home
+Our summary :
+['A', 'dog', 'has', 'died', 'after', 'being', 'shot', 'outside', 'a', 'Scarborough', 'home']
+
+Actual Sentence :
+DA launched the party s second Ayisafani TV advert in Mamelodi on Monday
+Actual Summary :
+DA launched the party s second Ayisafani TV advert
+Our summary :
+['DA', 'launched', 'the', 'party', 's', 'Ayisafani', 'TV', 'advert', 'Mamelodi']
+
+Actual Sentence :
+A 46 year old man has died after being struck by a vehicle in Regina
+Actual Summary :
+A man has died after being struck by a vehicle
+Our summary :
+['A', 'man', 'has', 'died', 'after', 'being', 'struck', 'by', 'a', 'vehicle']
+
+Actual Sentence :
+The state police have launched a new facility for submitting RTI applications online
+Actual Summary :
+The police have launched a facility for submitting RTI applications online
+Our summary :
+['The', 'state', 'police', 'have', 'launched', 'a', 'new', 'facility']
+
+Actual Sentence :
+Fleet town centre continues to top the antisocial behaviour league table for Hart district
+Actual Summary :
+Fleet town centre continues to top the antisocial behaviour league table
+Our summary :
+['Fleet', 'town', 'centre', 'continues', 'to', 'top', 'the', 'table']
+
+Actual Sentence :
+Bella Thorne worked the red carpet yesterday looking super cute in a monochrome dress
+Actual Summary :
+Bella Thorne worked the red carpet looking cute in a monochrome dress
+Our summary :
+['Bella', 'Thorne', 'worked', 'the', 'carpet', 'in', 'a', 'monochrome', 'dress']
+
+Actual Sentence :
+Aaron Alexis lied to Navy officials about a previous arrest and debts
+Actual Summary :
+Aaron Alexis lied about a previous arrest
+Our summary :
+['Aaron', 'Alexis', 'lied', 'to', 'Navy', 'officials']
+
+Actual Sentence :
+NAMI Oklahoma will begin offering free mental health classes starting Tuesday at Integris Baptist Hospital
+Actual Summary :
+NAMI Oklahoma will begin offering free mental health classes
+Our summary :
+['NAMI', 'Oklahoma', 'will', 'begin', 'offering', 'free', 'mental', 'health', 'classes']
+
+Actual Sentence :
+Fairfax County Public Schools made the decision to close schools and offices on Thursday
+Actual Summary :
+Fairfax County Public Schools made the decision to close on Thursday
+Our summary :
+['Fairfax', 'County', 'Public', 'Schools', 'made', 'the', 'decision', 'to', 'close', 'schools']
+
+Actual Sentence :
+ The changing global scenario calls for postal administrations around the world to think differently
+Actual Summary :
+The global scenario calls for postal administrations to think differently
+Our summary :
+['The', 'changing', 'global', 'scenario', 'calls', 'for', 'postal', 'administrations']
+
+Actual Sentence :
+Veteran actor MN Nambiar donned as many as 11 disguises in Digambara Samiyar
+Actual Summary :
+MN Nambiar donned as many as 11 disguises
+Our summary :
+['MN', 'Nambiar', 'donned', 'as', 'many', 'as', '11', 'disguises']
+
+Actual Sentence :
+Two brothers died in a road accident in the Hunjarwal area on Sunday
+Actual Summary :
+Two brothers died in a road accident
+Our summary :
+['Two', 'brothers', 'died', 'in', 'a', 'road', 'accident']
+
+Actual Sentence :
+Two teens were shot Sunday afternoon while standing on a Brentwood neighborhood sidewalk
+Actual Summary :
+Two teens were shot while standing on a Brentwood sidewalk
+Our summary :
+['Two', 'teens', 'were', 'shot', 'while', 'standing', 'on', 'a', 'Brentwood', 'neighborhood', 'sidewalk']
+
+Actual Sentence :
+Unknown assailants blew up a natural gas pipeline in Egypt a security source said
+Actual Summary :
+Assailants blew up a gas pipeline in Egypt
+Our summary :
+['Unknown', 'assailants', 'blew', 'up', 'a', 'natural', 'gas', 'pipeline', 'in', 'Egypt']
+
+Actual Sentence :
+Two men Thursday were indicted for rape by a Tompkins County Grand Jury
+Actual Summary :
+Two men were indicted for rape
+Our summary :
+['Two', 'men', 'Thursday', 'were', 'indicted', 'for', 'rape']
+
+Actual Sentence :
+Ashley Judd has sparked rumours she is reuniting with her estranged husband Dario Franchitti
+Actual Summary :
+Ashley Judd is reuniting with her estranged husband
+Our summary :
+['Ashley', 'Judd', 'is', 'reuniting', 'with', 'her', 'estranged', 'Dario', 'Franchitti']
+
+Actual Sentence :
+The Pendleton Round Up now 103 years old plans to hire its first paid executive
+Actual Summary :
+The Pendleton Round Up plans to hire its first paid executive
+Our summary :
+['The', 'Pendleton', 'Round', '103', 'plans', 'to', 'hire', 'its', 'first', 'paid', 'executive']
+
+Actual Sentence :
+The bail plea of BSP MP Dhananjay Singh was today rejected by a Delhi court
+Actual Summary :
+The bail plea of BSP MP Dhananjay Singh was today rejected
+Our summary :
+['The', 'bail', 'plea', 'of', 'Dhananjay', 'Singh', 'was', 'rejected', 'by', 'a', 'Delhi', 'court']
+
+Actual Sentence :
+Cocaine has been found at several Oxford University buildings including the Bodleian library
+Actual Summary :
+Cocaine has been found at Oxford University buildings
+Our summary :
+['Cocaine', 'has', 'been', 'found', 'at', 'several', 'Oxford', 'University', 'buildings']
+
+Actual Sentence :
+Two Seminole women face felony charges for making death threats on Facebook
+Actual Summary :
+Two women face charges for making threats on Facebook
+Our summary :
+['Two', 'Seminole', 'women', 'face', 'charges', 'for', 'making', 'death', 'threats', 'on', 'Facebook']
+
+Actual Sentence :
+An aggressive female elephant killed a zookeeper in Springfield Mo
+Actual Summary :
+An elephant killed a zookeeper
+Our summary :
+['An', 'aggressive', 'female', 'elephant', 'killed', 'a', 'zookeeper']
+
+Actual Sentence :
+After a brief hiatus the pirates have landed in Mollywood yet again
+Actual Summary :
+The pirates have landed in Mollywood again
+Our summary :
+['the', 'pirates', 'have', 'landed', 'in', 'Mollywood', 'again']
+
+Actual Sentence :
+Microsoft Corp s Windows 8 1 is finally available in the market
+Actual Summary :
+Microsoft Corp s Windows 8 1 is available
+Our summary :
+['Microsoft', 'Corp', 's', 'Windows', '8', '1', 'is', 'available']
+
+Actual Sentence :
+MESA COUNTY Colo There s a statewide effort to prevent child abuse in Colorado
+Actual Summary :
+There s a statewide effort to prevent child abuse
+Our summary :
+['Colo', 'There', 's', 'a', 'statewide', 'effort', 'to', 'prevent', 'child', 'abuse']
+
+Actual Sentence :
+Studies and surveys have found that men and women dream differently
+Actual Summary :
+Men and women dream
+Our summary :
+['men', 'and', 'women', 'dream', 'differently']
+
+Actual Sentence :
+Kate Winslet has given birth to a baby boy as confirmed by E
+Actual Summary :
+Kate Winslet has given birth to a baby boy
+Our summary :
+['Kate', 'Winslet', 'has', 'given', 'birth', 'to', 'a', 'baby', 'boy']
+
+Actual Sentence :
+Christina Aguilera and fiance Matt Rutler are expecting a baby girl
+Actual Summary :
+Christina Aguilera are expecting a baby girl
+Our summary :
+['Christina', 'Aguilera', 'Matt', 'Rutler', 'are', 'expecting', 'a', 'baby', 'girl']
+
+Actual Sentence :
+Pakistan Prime Minister Nawaz Sharif will address the UN General Assembly session next week
+Actual Summary :
+Nawaz Sharif will address the UN General Assembly session next week
+Our summary :
+['Nawaz', 'Sharif', 'will', 'address', 'the', 'UN', 'General', 'Assembly', 'session']
+
+Actual Sentence :
+The Emmy Awards have a start time of 5 00 PM that is pacific time
+Actual Summary :
+The Emmy Awards have a start time of 5 00 PM
+Our summary :
+['The', 'Emmy', 'Awards', 'have', 'a', 'start', 'time', 'of', '5', '00']
+
+Actual Sentence :
+Child mortality rates are dropping but are still high in some parts of the world
+Actual Summary :
+Child mortality rates are dropping
+Our summary :
+['Child', 'mortality', 'rates', 'are', 'dropping']
+
+Actual Sentence :
+Marshfield Farmers Market is accepting vendor applications for the 2014 Friday summer markets
+Actual Summary :
+Marshfield Farmers Market is accepting vendor applications for the 2014 markets
+Our summary :
+['Marshfield', 'Farmers', 'Market', 'is', 'accepting', 'vendor', 'applications']
+
+Actual Sentence :
+Former UW football star Reggie Rogers was found dead on Thursday in his Seattle home
+Actual Summary :
+Former UW football star Reggie Rogers was found dead
+Our summary :
+['star', 'Reggie', 'Rogers', 'was', 'found', 'dead']
+
+Actual Sentence :
+Disney says it will stop issuing paper stocks and will instead deliver shares electronically
+Actual Summary :
+Disney will stop issuing paper stocks
+Our summary :
+['Disney', 'will', 'stop', 'issuing', 'paper', 'stocks']
+
+Actual Sentence :
+The Indians have made an official qualifying offer to starting pitcher Ubaldo Jimenez
+Actual Summary :
+The Indians have made an qualifying offer to starting Ubaldo Jimenez
+Our summary :
+['The', 'Indians', 'have', 'made', 'an', 'qualifying', 'offer', 'to', 'Ubaldo', 'Jimenez']
+
+Actual Sentence :
+Internet cafes which were once the communication hub in developing countries are fast dying out
+Actual Summary :
+Internet cafes are dying out
+Our summary :
+['Internet', 'cafes', 'are', 'fast', 'dying', 'out']
+
+Actual Sentence :
+Davis and British actress Kathryn Camsey welcomed a daughter on 28 December
+Actual Summary :
+Davis welcomed a daughter
+Our summary :
+['Davis', 'and', 'Kathryn', 'Camsey', 'welcomed', 'a', 'daughter']
+
+Actual Sentence :
+Across the board the national media believes Bret Bielema and Arkansas are a good marriage
+Actual Summary :
+The national media believes Bret Bielema are
+Our summary :
+['Bret', 'Bielema', 'and', 'Arkansas', 'are', 'a', 'good', 'marriage']
+
+Actual Sentence :
+Pro surfer Bethany Hamilton married Adam Dirks in Hawaii on Saturday Aug 17
+Actual Summary :
+Pro surfer Bethany Hamilton married Adam Dirks
+Our summary :
+['Bethany', 'Hamilton', 'married', 'Adam', 'Dirks', 'in', 'Hawaii']
+
+Actual Sentence :
+Strong storms packing high winds knocked down trees and power lines in Newark on Tuesday
+Actual Summary :
+Storms knocked down trees and power lines
+Our summary :
+['storms', 'packing', 'high', 'winds', 'knocked', 'down', 'trees', 'and', 'lines', 'in', 'Newark']
+
+Actual Sentence :
+Depression is an illness that results in the lack of pleasure with almost all activities
+Actual Summary :
+Depression is an illness
+Our summary :
+['Depression', 'is', 'an', 'illness', 'results']
+
+Actual Sentence :
+Google is developing smart contact lenses that measure the glucose levels in diabetics tears
+Actual Summary :
+Google is developing smart contact lenses
+Our summary :
+['Google', 'is', 'developing', 'smart', 'contact', 'lenses']
+
+Actual Sentence :
+Actor Lee Jong suk has been diagnosed with swine flu his agency said on Wednesday
+Actual Summary :
+Lee Jong suk has been diagnosed with swine flu
+Our summary :
+['Lee', 'Jong', 'suk', 'has', 'been', 'diagnosed', 'with', 'swine', 'flu']
+
+Actual Sentence :
+The trash in Walter Hill continues to pile up at the Middle Point Landfill
+Actual Summary :
+The trash in Walter Hill continues to pile up
+Our summary :
+['The', 'trash', 'continues', 'to', 'pile', 'up', 'at', 'Landfill']
+
+Actual Sentence :
+A tornado watch has been canceled for Berks County the National Weather Service reports
+Actual Summary :
+A tornado watch has been canceled for Berks County
+Our summary :
+['A', 'tornado', 'watch', 'has', 'been', 'canceled', 'for', 'Berks', 'County']
+
+Actual Sentence :
+October 14 Umalusi says security remains a concern during the final matric exams
+Actual Summary :
+Security remains a concern during the final matric exams
+Our summary :
+['security', 'remains', 'a', 'concern', 'during', 'the', 'final', 'matric', 'exams']
+
+Actual Sentence :
+The question of where to play strategically speaking is deceptively simple
+Actual Summary :
+The question of where to play strategically speaking is
+Our summary :
+['The', 'question', 'to', 'play', 'strategically', 'speaking', 'is']
+
+Actual Sentence :
+Search engine Google is warning drivers not to use its services while operating a vehicle
+Actual Summary :
+Google is warning drivers
+Our summary :
+['Google', 'is', 'warning', 'drivers', 'not', 'to', 'use']
+
+Actual Sentence :
+Kerry Katona has admitted that she feels insecure next to her fellow Atomic Kitten bandmates
+Actual Summary :
+Kerry Katona feels insecure next to her Atomic Kitten bandmates
+Our summary :
+['Kerry', 'Katona', 'has', 'feels', 'insecure', 'to', 'her']
+
+Actual Sentence :
+The nine Scottsboro Boys officially receiving pardons Thursday morning
+Actual Summary :
+The nine Scottsboro Boys receiving pardons
+Our summary :
+['The', 'nine', 'Scottsboro', 'Boys', 'receiving', 'pardons']
+
+Actual Sentence :
+Aktia Bank is renewing its core banking system with a completion date in 2015
+Actual Summary :
+Aktia Bank is renewing its core banking system
+Our summary :
+['Aktia', 'Bank', 'is', 'renewing', 'its', 'core', 'banking', 'system']
+
+Actual Sentence :
+Many Quincy residents are getting robocalls encouraging them to support garbage privatization
+Actual Summary :
+Quincy residents are getting robocalls encouraging to support garbage privatization
+Our summary :
+['Many', 'Quincy', 'residents', 'are', 'getting', 'robocalls']
+
+Actual Sentence :
+Uttar Pradesh sports minister on Sunday offered cricketing legend Sachin Tendulkar to join Samajwadi Party
+Actual Summary :
+Uttar Pradesh sports minister offered Sachin Tendulkar to join Samajwadi Party
+Our summary :
+['Sachin', 'Tendulkar', 'to', 'join', 'Samajwadi', 'Party']
+
+Actual Sentence :
+Stocks to watch on the Australian stock exchange at the close on Wednesday
+Actual Summary :
+Stocks to watch at the close on Wednesday
+Our summary :
+['Stocks', 'to', 'watch', 'on', 'the', 'Australian', 'stock', 'exchange']
+
+Actual Sentence :
+Fox has cancelled comedy Raising Hope after four seasons the network announced Monday
+Actual Summary :
+Fox has cancelled Raising Hope
+Our summary :
+['Fox', 'has', 'cancelled', 'comedy', 'Raising', 'Hope']
+
+Actual Sentence :
+The New England Patriots put linebacker Jerod Mayo on season ending injured reserve Wednesday
+Actual Summary :
+The New England Patriots put Jerod Mayo on injured reserve
+Our summary :
+['The', 'New', 'England', 'Patriots', 'put', 'Jerod', 'Mayo', 'reserve']
+
+Actual Sentence :
+Skanska is investing USD 2 6 5 M about SEK 1
+Actual Summary :
+Skanska is investing USD about SEK 1
+Our summary :
+['Skanska', 'is', 'investing', 'USD', '2']
+
+Actual Sentence :
+After being seemingly stuck for seven years Jojo is suing Blackground Records for her release
+Actual Summary :
+Jojo is suing Blackground Records for her release
+Our summary :
+['Jojo', 'is', 'suing', 'Blackground', 'Records']
+
+Actual Sentence :
+Kristen Bell and Dax Shepard have reportedly tied the knot according to Us Weekly
+Actual Summary :
+Kristen Bell and Dax Shepard have tied the knot
+Our summary :
+['Kristen', 'Bell', 'and', 'Dax', 'Shepard', 'have', 'tied', 'the', 'knot']
+
+Actual Sentence :
+The hikers managed to get out just as a search was starting to be organized
+Actual Summary :
+The hikers managed to get out a search was starting
+Our summary :
+['The', 'hikers', 'managed', 'to', 'get', 'out', 'just', 'as', 'a', 'search', 'was']
+
+Actual Sentence :
+A MAN has died after a car crashed into a tree near Ashley Heath Ringwood
+Actual Summary :
+A MAN has died after a car crashed into a tree
+Our summary :
+['A', 'MAN', 'has', 'died', 'after', 'a', 'car', 'crashed', 'into', 'a', 'tree']
+
+Actual Sentence :
+Turkish minister for the economy Zafer Caglayan has filed a resignation note TRT Haber reports
+Actual Summary :
+Turkish minister for the economy has filed a resignation note
+Our summary :
+['minister', 'Caglayan', 'has', 'filed', 'a', 'resignation', 'note']
+
+Actual Sentence :
+Sunderland caretaker boss Kevin Ball is keen to use Emanuele Giaccherini in a central role
+Actual Summary :
+Kevin Ball is keen to use Emanuele Giaccherini in a central role
+Our summary :
+['Kevin', 'Ball', 'is', 'keen', 'to', 'use', 'Emanuele', 'Giaccherini']
+
+Actual Sentence :
+Jameis Winston Cameron Erving and Aaron Thomas team up for football dunk
+Actual Summary :
+Jameis Winston Cameron Erving team up for dunk
+Our summary :
+['Winston', 'Cameron', 'Erving', 'and', 'Aaron', 'Thomas', 'team', 'up']
+
+Actual Sentence :
+Gubernatorial candidate Abbott calls for greater privacy protections legalizing open carr
+Actual Summary :
+Abbott calls for greater privacy protections
+Our summary :
+['Abbott', 'calls', 'for', 'protections', 'legalizing', 'open', 'carr']
+
+Actual Sentence :
+Fiji Labour Party leader Mahendra Chaudhry will be sentenced today in the Suva High Court
+Actual Summary :
+Mahendra Chaudhry will be sentenced today
+Our summary :
+['Mahendra', 'Chaudhry', 'will', 'be', 'sentenced', 'today']
+
+Actual Sentence :
+Temple men s soccer tied UCF 2 2 on Sunday afternoon at UCF Soccer Complex
+Actual Summary :
+Temple men s soccer tied UCF 2 2
+Our summary :
+['Temple', 'men', 's', 'soccer', 'tied', 'UCF', '2']
+
+Actual Sentence :
+For a second time this month the Bulgarian parliament is to hold an extraordinary sitting
+Actual Summary :
+The Bulgarian parliament is to hold an extraordinary sitting
+Our summary :
+['the', 'Bulgarian', 'parliament', 'is', 'to', 'hold', 'an', 'extraordinary', 'sitting']
+
+Actual Sentence :
+Mothercare has appointed Nick Wharton as a non executive director effective Nov 14
+Actual Summary :
+Mothercare has appointed Nick Wharton as a director
+Our summary :
+['Mothercare', 'has', 'appointed', 'as', 'a', 'non', 'executive', 'director']
+
+Actual Sentence :
+Shortly after takeoff a KLM Cityhopper returned to Schiphol
+Actual Summary :
+A KLM Cityhopper returned to Schiphol
+Our summary :
+['Shortly', 'returned', 'to', 'Schiphol']
+
+Actual Sentence :
+Fandango along with Summer Rae interrupt The Miz during commentary on WWE Main Event
+Actual Summary :
+Fandango interrupt The Miz
+Our summary :
+['Fandango', 'interrupt', 'The', 'Miz', 'during', 'commentary']
+
+Actual Sentence :
+An eyelid bump sometimes referred to as a stye can be a nuisance
+Actual Summary :
+An eyelid bump can be a nuisance
+Our summary :
+['An', 'eyelid', 'bump', 'referred', 'can', 'be', 'a', 'nuisance']
+
+Actual Sentence :
+Drake and Rihanna once again partied together over the weekend this time in Los Angeles
+Actual Summary :
+Drake and Rihanna partied together in Los Angeles
+Our summary :
+['Drake', 'and', 'Rihanna', 'once', 'again', 'partied', 'together', 'over']
+
+Actual Sentence :
+A heat advisory was issued on Monday for Manitoba
+Actual Summary :
+A heat advisory was issued for Manitoba
+Our summary :
+['A', 'heat', 'advisory', 'was', 'issued', 'for', 'Manitoba']
+
+Actual Sentence :
+THE new traffic lights at the junction of Anderson Street and Ocean Road are abysmal
+Actual Summary :
+THE traffic lights are abysmal
+Our summary :
+['THE', 'new', 'traffic', 'lights', 'are', 'abysmal']
+
+Actual Sentence :
+Craig has been ruled out for the NLDS because of an injured left foot
+Actual Summary :
+Craig has been ruled out for the NLDS
+Our summary :
+['Craig', 'has', 'been', 'ruled', 'out', 'for', 'the', 'NLDS']
+
+Actual Sentence :
+A diver puts a Caribbean reef shark into a trance using just his hands
+Actual Summary :
+A diver puts a shark into a trance
+Our summary :
+['A', 'diver', 'puts', 'a', 'Caribbean', 'reef', 'shark']
+
+Actual Sentence :
+KeyBanc upgraded DTE Energy from Hold to Buy with a price target of 83 00
+Actual Summary :
+KeyBanc upgraded DTE Energy to Buy
+Our summary :
+['KeyBanc', 'upgraded', 'DTE', 'Energy', 'to', 'Buy']
+
+Actual Sentence :
+The infamous Sloane Street in partnership with Harper s Bazaar has launched its debut website
+Actual Summary :
+The Sloane Street has launched its website
+Our summary :
+['The', 'Sloane', 'Street', 'has', 'launched', 'its', 'debut', 'website']
+
+Actual Sentence :
+Simon Cowell is secretly planning to propose to his pregnant girlfriend
+Actual Summary :
+Simon Cowell is secretly planning to propose
+Our summary :
+['Simon', 'Cowell', 'is', 'secretly', 'planning', 'to', 'propose', 'to', 'his', 'pregnant', 'girlfriend']
+
+Actual Sentence :
+Cal finished fourth with a 195 700 behind regional champion Oklahoma Illinois and Minnesota
+Actual Summary :
+Cal finished fourth
+Our summary :
+['Cal', 'finished', 'fourth', 'with', 'a', '195', '700']
+
+Actual Sentence :
+The Department of Justice says Attorney General Eric Holder has been hospitalized
+Actual Summary :
+Attorney General Eric Holder has been hospitalized
+Our summary :
+['Eric', 'Holder', 'has', 'been', 'hospitalized']
+
+Actual Sentence :
+Hunter Mahan has withdrawn from the RBC Canadian Open after his wife went into labour
+Actual Summary :
+Hunter Mahan has withdrawn from the RBC Canadian Open
+Our summary :
+['Hunter', 'Mahan', 'has', 'withdrawn', 'from', 'the', 'RBC', 'Canadian', 'Open']
+
+Actual Sentence :
+California which has paved the way for many green initiatives looks to energy storage
+Actual Summary :
+California looks to energy storage
+Our summary :
+['California', 'the', 'way', 'initiatives', 'looks', 'to', 'energy', 'storage']
+
+Actual Sentence :
+As keynote speaker for the ceremony Bush highlighted the need for immigration reform
+Actual Summary :
+Bush highlighted the need for immigration reform
+Our summary :
+['Bush', 'highlighted', 'the', 'need', 'for', 'immigration', 'reform']
+
+Actual Sentence :
+Former US national team coach Bob Bradley has been named coach of Norwegian club Stabaek
+Actual Summary :
+Bob Bradley has been named coach of Norwegian club Stabaek
+Our summary :
+['Bob', 'Bradley', 'has', 'been', 'named', 'coach', 'of', 'Norwegian', 'club', 'Stabaek']
+
+Actual Sentence :
+We didn t start the fire no we didn t light it
+Actual Summary :
+We didn t start the fire
+Our summary :
+['We', 'didn', 't', 'start', 'the', 'fire']
+
+Actual Sentence :
+The Western Union Co announced Friday the launch of a new transactional website in Russia
+Actual Summary :
+The Western Union Co announced the launch of a transactional website in Russia
+Our summary :
+['The', 'Western', 'Union', 'Co', 'the', 'launch', 'of', 'a', 'new', 'transactional', 'website']
+
+Actual Sentence :
+Although progress is being made many will remain in the dark through Christmas day
+Actual Summary :
+Many will remain in the dark through Christmas day
+Our summary :
+['progress', 'is', 'being', 'made', 'will', 'remain', 'in', 'the', 'dark', 'through', 'Christmas', 'day']
+
+Actual Sentence :
+Holiday World is hiring to fill thousands of positions for the upcoming season
+Actual Summary :
+Holiday World is hiring to fill thousands of positions
+Our summary :
+['Holiday', 'World', 'is', 'hiring', 'to', 'fill', 'thousands']
+
+Actual Sentence :
+Vietnam rice sellers lowered most of their quotes by 5 15 per ton today
+Actual Summary :
+Vietnam rice sellers lowered most of their quotes
+Our summary :
+['Vietnam', 'rice', 'sellers', 'lowered', 'ton']
+
+Actual Sentence :
+A de icing material put on Austin roads is causing collisions around Austin
+Actual Summary :
+A de icing material is causing collisions around Austin
+Our summary :
+['A', 'de', 'icing', 'material', 'put', 'on', 'is', 'causing', 'collisions']
+
+Actual Sentence :
+OsoBio has appointed Catherine R Buck director of manufacturing
+Actual Summary :
+OsoBio has appointed director of manufacturing
+Our summary :
+['OsoBio', 'has', 'appointed']
+
+Actual Sentence :
+A new BuzzFeed quiz challenges How Bergen County Are You 
+Actual Summary :
+How Bergen County Are
+Our summary :
+['A', 'new', 'BuzzFeed', 'quiz', 'challenges']
+
+Actual Sentence :
+Scott won the PGA Grand Slam of Golf contested by the years four major winners
+Actual Summary :
+Scott won the PGA Grand Slam of Golf
+Our summary :
+['Scott', 'won', 'the', 'PGA', 'Grand', 'Slam', 'of', 'Golf', 'contested']
+
+Actual Sentence :
+Anne Hathaway is not pregnant well not at this moment that is
+Actual Summary :
+Anne Hathaway is not pregnant
+Our summary :
+['Anne', 'Hathaway', 'is', 'not', 'pregnant']
+
+Actual Sentence :
+Chelsee Healey was attacked outside a London nightclub in the early hours of Thursday morning
+Actual Summary :
+Chelsee Healey was attacked outside a London nightclub
+Our summary :
+['Chelsee', 'Healey', 'was', 'attacked', 'outside', 'a', 'London', 'nightclub']
+
+Actual Sentence :
+But environmental psychologists understand that no environment can be totally neutral
+Actual Summary :
+No environment can be neutral
+Our summary :
+['no', 'environment', 'can', 'be', 'totally', 'neutral']
+
+Actual Sentence :
+Earlier this morning Libyan Prime Minister Ali Zeidan was kidnapped
+Actual Summary :
+This morning Libyan Minister Ali Zeidan was kidnapped
+Our summary :
+['Libyan', 'Ali', 'Zeidan', 'was', 'kidnapped']
+
+Actual Sentence :
+ALDI is set to open a second grocery store in Lancaster County this summer
+Actual Summary :
+ALDI is set to open a second grocery store in Lancaster County
+Our summary :
+['ALDI', 'is', 'set', 'to', 'open', 'a', 'second', 'grocery', 'store', 'in', 'Lancaster', 'County']
+
+Actual Sentence :
+Rolex the world s leading Swiss watchmaker and the Asian Tour have extended their partnership
+Actual Summary :
+Rolex and the Asian Tour have extended their partnership
+Our summary :
+['Rolex', 'have', 'extended', 'their', 'partnership']
+
+Actual Sentence :
+A coal train derailed in Caledonia Wis Sunday morning overturning 19 cars
+Actual Summary :
+A coal train derailed in Caledonia Wis
+Our summary :
+['A', 'coal', 'train', 'derailed', 'in', 'Caledonia', 'overturning', '19', 'cars']
+
+Actual Sentence :
+A 20 year old Florida college student survived a nightmare at sea
+Actual Summary :
+A college student survived a nightmare at sea
+Our summary :
+['A', 'college', 'student', 'survived', 'a', 'nightmare', 'at', 'sea']
+
+Actual Sentence :
+Musician Beck has just announced an upcoming North American tour
+Actual Summary :
+Beck has announced an North American tour
+Our summary :
+['Musician', 'Beck', 'has', 'announced', 'an', 'North', 'American', 'tour']
+
+Actual Sentence :
+A 25 year old woman committed suicide after she was raped by her neighbour
+Actual Summary :
+A woman committed suicide after she was raped
+Our summary :
+['A', 'woman', 'committed', 'suicide', 'after', 'she', 'was', 'raped']
+
+Actual Sentence :
+A Santa Barbara Police officer shot a suspect on Friday who allegedly assaulted the officer
+Actual Summary :
+A Santa Barbara Police officer shot a suspect
+Our summary :
+['A', 'Santa', 'Barbara', 'Police', 'officer', 'shot', 'a', 'suspect']
+
+Actual Sentence :
+South Sudanese President Salva Kiir arrived in Ethiopian capital Addis Ababa on Thursday
+Actual Summary :
+Sudanese President Salva Kiir arrived in Addis Ababa
+Our summary :
+['Salva', 'Kiir', 'arrived', 'in', 'Ethiopian', 'capital', 'Addis']
+
+Actual Sentence :
+The constitution of Pakistan guarantees equal rights to the minorities of this country
+Actual Summary :
+The constitution guarantees equal rights to the minorities
+Our summary :
+['The', 'constitution', 'of', 'Pakistan', 'guarantees', 'equal', 'rights', 'to', 'the', 'minorities']
+
+Actual Sentence :
+Sean Penn screamed at a fan who allegedly tried to take a photograph of him
+Actual Summary :
+Sean Penn screamed at a fan
+Our summary :
+['Sean', 'Penn', 'screamed', 'take', 'a', 'photograph', 'of', 'him']
+
+Actual Sentence :
+A 37 year old Pontiac man has been arrested after an apparent road rage shooting
+Actual Summary :
+A Pontiac man has been arrested after an road rage shooting
+Our summary :
+['A', 'Pontiac', 'man', 'has', 'been', 'arrested', 'after', 'an', 'apparent', 'road', 'rage', 'shooting']
+
+Actual Sentence :
+Afro beat living legend Femi Kuti has arrived in Ghana
+Actual Summary :
+Femi Kuti has arrived in Ghana
+Our summary :
+['Femi', 'Kuti', 'has', 'arrived', 'in', 'Ghana']
+
+Actual Sentence :
+EE has announced that it will be raising prices by 2 7 from 28th May
+Actual Summary :
+EE will be raising prices from May
+Our summary :
+['EE', 'will', 'be', 'raising', 'prices', 'by', '2', '7', 'from', '28th', 'May']
+
+Actual Sentence :
+Owl terrorizes neighborhood joggers swooping down at their head
+Actual Summary :
+Owl terrorizes neighborhood joggers
+Our summary :
+['Owl', 'terrorizes', 'joggers', 'swooping', 'down']
+
+Actual Sentence :
+The Band Perry singer Kimberly Perry is engaged to Toronto Blue Jays catcher JP Arencibia
+Actual Summary :
+The Band Perry singer is engaged to JP Arencibia
+Our summary :
+['The', 'Perry', 'Kimberly', 'Perry', 'is', 'engaged', 'to', 'Toronto', 'JP', 'Arencibia']
+
+Actual Sentence :
+This week there are early indications that Vick could be moving toward making a decision
+Actual Summary :
+Vick could be moving toward making a decision
+Our summary :
+['Vick', 'could', 'be', 'moving', 'toward', 'making', 'a', 'decision']
+
+Actual Sentence :
+A Ketchikan official wants to sell a dam project that is under construction
+Actual Summary :
+A Ketchikan official wants to sell a dam project
+Our summary :
+['A', 'Ketchikan', 'official', 'wants', 'to', 'sell', 'a', 'dam', 'project']
+
+Actual Sentence :
+Antone s an iconic Austin music venue could be on the move once again
+Actual Summary :
+Antone could be on the move again
+Our summary :
+['Antone', 's', 'an', 'music', 'venue', 'could', 'be', 'on', 'the', 'move']
+
+Actual Sentence :
+A boy has died in Kyrgyzstan after eating barbequed groundhog infected with the bubonic plague
+Actual Summary :
+A boy has died after eating groundhog infected with the bubonic plague
+Our summary :
+['A', 'boy', 'has', 'died', 'in', 'after', 'eating', 'barbequed', 'groundhog', 'infected']
+
+Actual Sentence :
+Four Midlands wrestlers advanced Friday to the semifinals at the NAIA national championship
+Actual Summary :
+Four Midlands wrestlers advanced to the semifinals at the NAIA championship
+Our summary :
+['Four', 'Midlands', 'wrestlers', 'advanced', 'to', 'the', 'semifinals']
+
+Actual Sentence :
+AUSTRALIAN artist Matt Doust has died in Los Angeles from an epileptic seizure
+Actual Summary :
+AUSTRALIAN artist Matt Doust has died
+Our summary :
+['Matt', 'Doust', 'has', 'died']
+
+Actual Sentence :
+Florida wildlife officials are warning boaters to watch out for manatees
+Actual Summary :
+Officials are warning boaters to watch out for manatees
+Our summary :
+['Florida', 'wildlife', 'officials', 'are', 'warning', 'boaters', 'to', 'watch']
+
+Actual Sentence :
+A man has been rushed to hospital after he was shot in Brampton Monday afternoon
+Actual Summary :
+A man has been rushed to hospital after he was shot in Brampton
+Our summary :
+['A', 'man', 'has', 'been', 'rushed', 'to', 'hospital', 'after', 'he', 'was', 'shot', 'in', 'Brampton']
+
+Actual Sentence :
+An Essex County couple has been accused of sexually abusing a child
+Actual Summary :
+An couple has been accused of sexually abusing a child
+Our summary :
+['An', 'Essex', 'County', 'couple', 'has', 'been', 'accused', 'of', 'sexually', 'abusing', 'a', 'child']
+
+Actual Sentence :
+Today he makes his pick for the Michigan Kentucky game
+Actual Summary :
+He makes his pick for the Kentucky game
+Our summary :
+['he', 'makes', 'his', 'pick', 'for', 'the', 'Michigan', 'Kentucky', 'game']
+
+Actual Sentence :
+Serendipity is moving one block north to a new oceanside location at 855B Front St 
+Actual Summary :
+Serendipity is moving one block north
+Our summary :
+['Serendipity', 'is', 'moving', 'one', 'block', 'north', 'to', 'a', 'new', 'oceanside', 'location']
+
+Actual Sentence :
+A cross party group of MPs is calling for more BBC investment in the Midlands
+Actual Summary :
+A group of MPs is calling for more BBC investment in the Midlands
+Our summary :
+['A', 'party', 'group', 'is', 'calling', 'for', 'more', 'BBC', 'investment']
+
+Actual Sentence :
+Kevin Harvick nears the finish line to win Sunday s Sprint Cup race at Phoenix
+Actual Summary :
+Kevin Harvick nears to win Sunday s Sprint Cup race at Phoenix
+Our summary :
+['Kevin', 'Harvick', 'nears', 'the', 'line', 'to', 'win', 'Sunday', 's', 'Sprint', 'race']
+
+Actual Sentence :
+ to Favourites Add Sportshour Why be a Whistle Blower to Favourite
+Actual Summary :
+Why be a Whistle Blower
+Our summary :
+['Why', 'be', 'a', 'Whistle', 'Blower']
+
+Actual Sentence :
+Rochester Americans goalie Matt Hackett has gone retro with his new mask
+Actual Summary :
+Goalie Matt Hackett has gone retro with his new mask
+Our summary :
+['Matt', 'Hackett', 'has', 'gone', 'retro', 'with']
+
+Actual Sentence :
+Gujarat Chief Minister Narendra Modi today stressed the need for innovation in the health sector
+Actual Summary :
+Narendra Modi today stressed the need for innovation in the health sector
+Our summary :
+['Narendra', 'Modi', 'today', 'stressed', 'the', 'need', 'for', 'innovation', 'in', 'the', 'health', 'sector']
+
+Actual Sentence :
+US Secretary of State John Kerry says he is creating a new Arctic ambassador position
+Actual Summary :
+John Kerry is creating a Arctic ambassador position
+Our summary :
+['John', 'Kerry', 'is', 'creating', 'a', 'new', 'Arctic', 'ambassador', 'position']
+
+Actual Sentence :
+Council is protesting the provincial education tax hike for residents
+Actual Summary :
+Council is protesting the education tax hike
+Our summary :
+['Council', 'is', 'protesting', 'the', 'education', 'tax', 'hike']
+
+Actual Sentence :
+James Arthur has quit Twitter following a row with Frankie Boyle on Saturday November 16th
+Actual Summary :
+James Arthur has quit Twitter following a row with Frankie Boyle
+Our summary :
+['James', 'Arthur', 'has', 'quit', 'Twitter']
+
+Actual Sentence :
+Selena Gomez is ready to put everything behind her and take on the world
+Actual Summary :
+Selena Gomez is ready to put and take on the world
+Our summary :
+['Selena', 'Gomez', 'is', 'ready', 'to', 'put', 'everything']
+
+Actual Sentence :
+Hilden Brewery is to target businesses in Boston after winning a unique package of support
+Actual Summary :
+Hilden Brewery is to target businesses in Boston
+Our summary :
+['Hilden', 'Brewery', 'is', 'to', 'target', 'businesses', 'in', 'Boston']
+
+Actual Sentence :
+A penny farthing bike was stolen in Honiton
+Actual Summary :
+A penny farthing bike was stolen
+Our summary :
+['A', 'penny', 'farthing', 'bike', 'was', 'stolen']
+
+Actual Sentence :
+Charlie Sheen was reportedly denied access to his two sons on Saturday
+Actual Summary :
+Charlie Sheen was denied access to his two sons
+Our summary :
+['Charlie', 'Sheen', 'was', 'denied', 'access', 'to', 'his', 'two', 'sons']
+
+Actual Sentence :
+Retail gasoline prices have jumped 8 cents per gallon this week across Texas
+Actual Summary :
+Retail gasoline prices have jumped 8 cents across Texas
+Our summary :
+['Retail', 'gasoline', 'prices', 'have', 'jumped', '8', 'cents', 'per', 'gallon']
+
+Actual Sentence :
+Clemson cross country began its season on Saturday in Greenville at the Furman Classic
+Actual Summary :
+Cross country began
+Our summary :
+['Clemson', 'cross', 'country', 'began', 'its', 'season', 'on', 'in']
+
+Actual Sentence :
+Demi Lovato has opened up about her troubled past and continued struggle with bipolar disorder
+Actual Summary :
+Demi Lovato has opened up about her troubled past and struggle with bipolar disorder
+Our summary :
+['Demi', 'Lovato', 'has', 'opened', 'up', 'about', 'her']
+
+Actual Sentence :
+LSU completed its opening weekend sweep with a 6 0 shutout against Grambling
+Actual Summary :
+LSU completed its opening weekend sweep
+Our summary :
+['LSU', 'completed', 'its', 'opening', 'weekend', 'sweep']
+
+Actual Sentence :
+ABC s Good Morning America is saying goodbye to Josh Elliott minus Josh Elliott
+Actual Summary :
+ABC s Good Morning America is saying to Josh Elliott
+Our summary :
+['ABC', 's', 'Good', 'Morning', 'America', 'is', 'saying', 'goodbye', 'to']
+
+Actual Sentence :
+He is the first American man to win the Boston Marathon in 31 years
+Actual Summary :
+He is the man to win the Boston Marathon
+Our summary :
+['He', 'is', 'the', 'American', 'man', 'to', 'win', 'the', 'Boston', 'Marathon']
+
+Actual Sentence :
+The full Cubs squad reports to their new facility in Mesa for spring training Tuesday
+Actual Summary :
+The Cubs squad reports for spring training Tuesday
+Our summary :
+['The', 'Cubs', 'squad', 'reports', 'to', 'their', 'new', 'facility', 'in', 'Mesa']
+
+Actual Sentence :
+Google has surprisingly sold its subsidiary Motorola Mobility to Chinese smartphone manufacturer Lenovo
+Actual Summary :
+Google has sold its subsidiary Motorola Mobility to Lenovo
+Our summary :
+['Google', 'has', 'sold', 'its', 'Motorola', 'Mobility', 'to', 'Lenovo']
+
+Actual Sentence :
+California state Sen Leland Yee was indicted for public corruption on Wednesday ABC News reported
+Actual Summary :
+California state Sen Leland Yee was indicted for public corruption
+Our summary :
+['California', 'state', 'Sen', 'Leland', 'Yee', 'was', 'indicted', 'for', 'public', 'corruption']
+
+Actual Sentence :
+ Nelson Mandela is physically separated from us but his soul and spirit will never die
+Actual Summary :
+Nelson Mandela is separated
+Our summary :
+['Nelson', 'Mandela', 'is', 'physically', 'separated']
+
+Actual Sentence :
+Twinkies are back but they may be a bit smaller than you remember
+Actual Summary :
+Twinkies are back but they may be smaller
+Our summary :
+['Twinkies', 'are', 'back']
+
+Actual Sentence :
+California based technology giant Oracle has purchased content marketing platform Compendium
+Actual Summary :
+Oracle has purchased content marketing platform Compendium
+Our summary :
+['Oracle', 'has', 'purchased', 'marketing', 'platform', 'Compendium']
+
+Actual Sentence :
+The drought contributed greatly to the cholera outbreak in the Kunene Region
+Actual Summary :
+The drought contributed to the cholera outbreak in the Kunene Region
+Our summary :
+['The', 'drought', 'contributed', 'greatly', 'to', 'the', 'cholera', 'outbreak']
+
+Actual Sentence :
+September 25 Kenya as a nation is grieving for the victims of the Westgate attack
+Actual Summary :
+Kenya is grieving for the victims of the Westgate attack
+Our summary :
+['Kenya', 'as', 'a', 'nation', 'is', 'grieving']
+
+Actual Sentence :
+A former Saugerties man was sentenced in Ulster County Court on two separate felony convictions
+Actual Summary :
+A Saugerties man was sentenced on two felony convictions
+Our summary :
+['A', 'former', 'Saugerties', 'man', 'was', 'sentenced', 'on', 'two', 'felony', 'convictions']
+
+Actual Sentence :
+Actor Charlie Sheen has become a grandfather at the age of 47
+Actual Summary :
+Actor Charlie Sheen has become a grandfather
+Our summary :
+['Charlie', 'Sheen', 'has', 'become', 'a', 'grandfather', 'at', 'the', 'age', 'of', '47']
+
+Actual Sentence :
+Its always a good get instant loans to sell stuff
+Actual Summary :
+Its a get instant loans
+Our summary :
+['a', 'good', 'get', 'instant', 'loans', 'sell']
+
+Actual Sentence :
+1 26 pm Foster endorses Garcia To Replace Him As Long Beach Mayor New
+Actual Summary :
+Foster endorses Garcia To Replace
+Our summary :
+['endorses', 'Garcia', 'To', 'Replace', 'Him']
+
+Actual Sentence :
+Aston Villa boss Paul Lambert is delighted with the current form of captain Ron Vlaar 
+Actual Summary :
+Aston Villa boss Paul Lambert is delighted with the form of captain Ron Vlaar
+Our summary :
+['Paul', 'Lambert', 'is', 'delighted', 'with', 'the', 'form', 'of', 'Ron', 'Vlaar']
+
+Actual Sentence :
+Chesterfield County police say a Petersburg woman drowned while wading in the Appomattox River
+Actual Summary :
+A Petersburg woman drowned while wading in the Appomattox River
+Our summary :
+['a', 'Petersburg', 'woman', 'drowned', 'while', 'wading', 'in', 'the', 'Appomattox', 'River']
+
+Actual Sentence :
+After eight long years of marriage Diane Lane and Josh Brolin are officially divorced
+Actual Summary :
+Diane Lane are officially divorced
+Our summary :
+['Diane', 'Lane', 'and', 'Josh', 'Brolin', 'are', 'divorced']
+
+Actual Sentence :
+Fire destroyed a Cotati home on Saturday afternoon a Rancho Adobe fire captain said Monday
+Actual Summary :
+Fire destroyed a Cotati home
+Our summary :
+['Fire', 'destroyed', 'a', 'Cotati', 'home', 'a', 'Rancho']
+
+Actual Sentence :
+Chris Brown is going to prison and he may be there for awhile
+Actual Summary :
+Chris Brown is going to prison
+Our summary :
+['Chris', 'Brown', 'is', 'going', 'to', 'prison']
+
+Actual Sentence :
+A big fire destroyed a yacht this afternoon on Harbor Island
+Actual Summary :
+A fire destroyed a yacht on Harbor Island
+Our summary :
+['A', 'fire', 'destroyed', 'a', 'yacht']
+
+Actual Sentence :
+Caf chain Loungers is planning to open three new outlets in the UK before Christmas
+Actual Summary :
+Loungers is planning to open three new outlets before Christmas
+Our summary :
+['Loungers', 'is', 'planning', 'to', 'open', 'three', 'new', 'outlets']
+
+Actual Sentence :
+Kristen Stewart has enrolled at the University of California Los Angeles to study English Literature
+Actual Summary :
+Kristen Stewart has enrolled at the University of California Los Angeles
+Our summary :
+['Kristen', 'Stewart', 'has', 'enrolled', 'the', 'University']
+
+Actual Sentence :
+Nursing professionals in Sri Lanka are getting wider global acceptance especially in the Eurozone
+Actual Summary :
+Nursing professionals are getting wider global acceptance
+Our summary :
+['Nursing', 'professionals', 'are', 'getting', 'wider', 'global', 'acceptance']
+
+Actual Sentence :
+Philippines visa free entry countries were announced by the Department of Foreign Affairs this week
+Actual Summary :
+Philippines visa free entry countries were announced
+Our summary :
+['Philippines', 'visa', 'free', 'entry', 'countries', 'were', 'announced']
+
+Actual Sentence :
+A young boy was approached by a stranger at Seaham on Wednesday
+Actual Summary :
+A young boy was approached at Seaham
+Our summary :
+['A', 'boy', 'was', 'approached', 'by', 'a', 'stranger', 'at', 'Seaham']
+
+Actual Sentence :
+Boys varsity basketball practice began Nov 11 across the area
+Actual Summary :
+Basketball practice began
+Our summary :
+['Boys', 'varsity', 'basketball', 'practice', 'began', 'Nov']
+
+Actual Sentence :
+Last night the Bismarck city council approved a final contract for curbside recycling
+Actual Summary :
+The Bismarck city council approved a contract for curbside recycling
+Our summary :
+['the', 'Bismarck', 'city', 'council', 'approved', 'a', 'final', 'contract', 'recycling']
+
+Actual Sentence :
+Akshay Kumar attended the screening of his movie BOSS at Cinemax in Mumbai
+Actual Summary :
+Akshay Kumar attended the screening of his BOSS
+Our summary :
+['Akshay', 'Kumar', 'attended', 'the', 'screening', 'of', 'his', 'movie', 'BOSS']
+
+Actual Sentence :
+Milwaukee police say the driver wanted in a fatal crash has turned himself in
+Actual Summary :
+The driver wanted in a fatal crash has turned himself in
+Our summary :
+['the', 'driver', 'wanted', 'crash', 'has', 'turned', 'himself']
+
+Actual Sentence :
+Thousands gathered Tuesday night for a candlelight vigil to remember the victim in the shooting
+Actual Summary :
+Thousands gathered for a candlelight vigil
+Our summary :
+['Thousands', 'gathered', 'for', 'a', 'candlelight', 'vigil', 'remember', 'the', 'victim']
+
+Actual Sentence :
+Two Slocomb residents were arrested as part of a drug investigation in Washington County Fla
+Actual Summary :
+Two Slocomb residents were arrested as part of a drug investigation
+Our summary :
+['Two', 'Slocomb', 'residents', 'were', 'arrested', 'as', 'part', 'of', 'a', 'drug', 'investigation']
+
+Actual Sentence :
+I am DEMANDING that the Rabbonim can women take cialis for men screaming about this
+Actual Summary :
+The Rabbonim can women take cialis for men
+Our summary :
+['the', 'Rabbonim', 'can', 'women', 'take', 'cialis']
+
+Actual Sentence :
+For the third straight season the Detroit Tigers have clinched a playoff spot
+Actual Summary :
+The Detroit Tigers have clinched a playoff spot
+Our summary :
+['the', 'Detroit', 'Tigers', 'have', 'clinched', 'a', 'playoff', 'spot']
+
+Actual Sentence :
+A Joppa woman was killed in a motorcycle crash Monday
+Actual Summary :
+A woman was killed in a motorcycle crash
+Our summary :
+['A', 'Joppa', 'woman', 'was', 'killed', 'in', 'a', 'motorcycle', 'crash']
+
+Actual Sentence :
+Former Bharatiya Janata Party president Bangaru Laxman on Saturday died after a prolonged illness
+Actual Summary :
+Former Bharatiya Janata Party president Bangaru Laxman died
+Our summary :
+['Bangaru', 'Laxman', 'died', 'after', 'a', 'prolonged', 'illness']
+
+Actual Sentence :
+Former FC Barcelona coach Tito Vilanova died Friday at a clinic the club said
+Actual Summary :
+Former FC Barcelona coach Tito Vilanova died
+Our summary :
+['Former', 'FC', 'Barcelona', 'coach', 'Tito', 'Vilanova', 'died']
+
+Actual Sentence :
+Who has THE EDGE this weekend between California and Arizona
+Actual Summary :
+Who has THE EDGE
+Our summary :
+['Who', 'has', 'THE', 'EDGE']
+
+Actual Sentence :
+Jennifer Aniston is reportedly considering becoming a buddhist
+Actual Summary :
+Jennifer Aniston is considering becoming a buddhist
+Our summary :
+['Jennifer', 'Aniston', 'is', 'considering', 'becoming', 'a', 'buddhist']
+
+Actual Sentence :
+When it comes to partying there s not much that beats A Club Called Rhonda
+Actual Summary :
+A Club Called Rhonda
+Our summary :
+['beats', 'A', 'Club', 'Called', 'Rhonda']
+
+Actual Sentence :
+Rain continues through the day today even as records are already falling
+Actual Summary :
+Rain continues through the day
+Our summary :
+['Rain', 'continues', 'through', 'the', 'day', 'falling']
+
+Actual Sentence :
+Astronomers love to remind us that there s no up or down in space
+Actual Summary :
+There s no up or down in space
+Our summary :
+['Astronomers', 'there', 's', 'no', 'up', 'or', 'down', 'in', 'space']
+
+Actual Sentence :
+Japan Airlines has announced a full schedule of flights to Fairbanks this winter
+Actual Summary :
+Japan Airlines has announced a schedule of flights to Fairbanks
+Our summary :
+['Japan', 'Airlines', 'has', 'announced', 'a', 'full', 'schedule', 'of', 'flights', 'to', 'Fairbanks']
+
+Actual Sentence :
+Stamford will celebrate its Italian heritage during the Columbus Day parade on Sunday Oct 13
+Actual Summary :
+Stamford will celebrate its Italian heritage during the Columbus Day parade
+Our summary :
+['Stamford', 'will', 'celebrate', 'its', 'Italian', 'heritage', 'during', 'the', 'Columbus', 'parade']
+
+Actual Sentence :
+Authorities say an elderly woman has died in a fire at her Des Moines home
+Actual Summary :
+An woman has died in a fire at her Des Moines home
+Our summary :
+['an', 'elderly', 'woman', 'has', 'died', 'in', 'a', 'fire']
+
+Actual Sentence :
+The city s integrity commissioner provided his annual report to city council Monday night
+Actual Summary :
+The city s integrity commissioner provided his report to council
+Our summary :
+['The', 'city', 's', 'integrity', 'commissioner', 'provided', 'his', 'report', 'to', 'council']
+
+Actual Sentence :
+ It s incredible the way Sachin has managed a lot that happened around him
+Actual Summary :
+It s the way Sachin has managed a lot that happened around him
+Our summary :
+['Sachin', 'has', 'managed', 'a', 'lot']
+
+Actual Sentence :
+Social media giant Facebook bought chat app WhatsApp for 19 billion
+Actual Summary :
+Facebook bought WhatsApp
+Our summary :
+['Facebook', 'bought', 'chat', 'app', 'WhatsApp']
+
+Actual Sentence :
+English defender Anton Ferdinand has left Queens Park Rangers by mutual contest
+Actual Summary :
+Anton Ferdinand has left Queens Park Rangers
+Our summary :
+['Anton', 'Ferdinand', 'has', 'left', 'Queens', 'Park', 'Rangers']
+
+Actual Sentence :
+Barcelona former coach Tito Vilanova has died at the age of 45 from throat cancer
+Actual Summary :
+Barcelona former coach Tito Vilanova has died at the age from cancer
+Our summary :
+['Barcelona', 'former', 'coach', 'Tito', 'Vilanova', 'has', 'died']
+
+Actual Sentence :
+Manhattan concludes its three game homestand this afternoon by welcoming Iona to Draddy Gymnasium
+Actual Summary :
+Manhattan concludes its homestand by welcoming Iona
+Our summary :
+['Manhattan', 'concludes', 'its', 'three', 'game', 'homestand']
+
+Actual Sentence :
+Ashley Tisdale is engaged to Christopher French
+Actual Summary :
+Ashley Tisdale is engaged
+Our summary :
+['Ashley', 'Tisdale', 'is', 'engaged']
+
+Actual Sentence :
+George Zimmerman went shopping for a shotgun today August 22 in Florida
+Actual Summary :
+George Zimmerman went shopping for a shotgun
+Our summary :
+['George', 'Zimmerman', 'went', 'shopping', 'for', 'a', 'shotgun']
+
+Actual Sentence :
+A Macon woman fought off an intruder in her home Sunday afternoon
+Actual Summary :
+A Macon woman fought off an intruder
+Our summary :
+['A', 'Macon', 'woman', 'fought', 'off', 'an', 'intruder', 'in', 'her', 'home']
+
+Actual Sentence :
+A team of UN weapons inspectors has arrived in Beirut after leaving Syria this morning
+Actual Summary :
+A team of UN weapons inspectors has arrived in Beirut
+Our summary :
+['A', 'team', 'of', 'UN', 'weapons', 'inspectors', 'has', 'arrived', 'in', 'Beirut', 'Syria']
+
+Actual Sentence :
+BlackBerry has confirmed it is considering a possible sale of the company
+Actual Summary :
+BlackBerry is considering a sale of the company
+Our summary :
+['BlackBerry', 'is', 'considering', 'a', 'possible', 'sale']
+
+Actual Sentence :
+A lake which inspired William Wordsworth and Beatrix Potter is up for sale on eBay
+Actual Summary :
+A lake which inspired William Wordsworth is up for sale on eBay
+Our summary :
+['A', 'William', 'is', 'up', 'for', 'sale', 'on', 'eBay']
+
+Actual Sentence :
+Dancehall reggae artist Vybz Kartel was sentenced to life in prison today in Jamaica
+Actual Summary :
+Vybz Kartel was sentenced to life in prison
+Our summary :
+['Vybz', 'Kartel', 'was', 'sentenced', 'to', 'life', 'in', 'prison', 'Jamaica']
+
+Actual Sentence :
+A recent study says Italian women work harder and longer than men do
+Actual Summary :
+Italian women work harder and longer than men do
+Our summary :
+['Italian', 'women', 'work', 'harder', 'and', 'longer', 'than', 'men', 'do']
+
+Actual Sentence :
+Bitcoin prices plunged on Friday after Tokyo based Bitcoin exchange Mt
+Actual Summary :
+Bitcoin prices plunged after Mt
+Our summary :
+['Bitcoin', 'prices', 'plunged']
+
+Actual Sentence :
+A Dallas police officer was wounded in a shootout with a suspect Saturday night
+Actual Summary :
+A Dallas officer was wounded in a shootout
+Our summary :
+['A', 'Dallas', 'police', 'officer', 'was', 'wounded', 'in', 'a', 'shootout']
+
+Actual Sentence :
+BBC America has picked up the second season of British fantasy adventure series Atlantis
+Actual Summary :
+BBC America has picked up the second season of Atlantis
+Our summary :
+['BBC', 'America', 'has', 'picked', 'up', 'the', 'season', 'of', 'series', 'Atlantis']
+
+Actual Sentence :
+Mickey Rooney died Sunday at the age of 93
+Actual Summary :
+Mickey Rooney died at the age of 93
+Our summary :
+['Mickey', 'Rooney', 'died', 'at', 'age', 'of', '93']
+
+Actual Sentence :
+POLITICAL HACKTIVIST OUTFIT the Syrian Electronic Army has claimed Microsoft as its latest victim
+Actual Summary :
+The Syrian Electronic Army has claimed Microsoft as its latest victim
+Our summary :
+['the', 'Syrian', 'Electronic', 'Army', 'has', 'claimed', 'Microsoft', 'as', 'its', 'victim']
+
+Actual Sentence :
+Orange County deputies say a Windermere police officer was shot and killed early Saturday morning
+Actual Summary :
+A Windermere police officer was shot and killed
+Our summary :
+['a', 'Windermere', 'police', 'officer', 'was', 'shot', 'and', 'killed']
+
+Actual Sentence :
+Reverse cell number search for college students is now launched online at http reversephonelookupapp com
+Actual Summary :
+Reverse cell number search for college students is launched online
+Our summary :
+['Reverse', 'cell', 'number', 'search', 'for', 'college', 'students', 'is', 'launched']
+
+Actual Sentence :
+Three men were arrested after a fight broke out in Fulbourn near Cambridge
+Actual Summary :
+Three men were arrested after a fight
+Our summary :
+['Three', 'men', 'were', 'arrested', 'after', 'a', 'fight', 'broke', 'out', 'in', 'Fulbourn']
+
+Actual Sentence :
+A Tina Fey produced comedy from Universal Television has gotten a series commitment from Fox
+Actual Summary :
+A Tina Fey produced comedy has gotten a series commitment from Fox
+Our summary :
+['A', 'Tina', 'Fey', 'produced', 'comedy', 'has', 'gotten', 'a', 'series', 'commitment']
+
+Actual Sentence :
+Vin Diesel has been confirmed to play Groot in Guardians of the Galaxy 
+Actual Summary :
+Vin Diesel has been confirmed to play in Guardians of the Galaxy
+Our summary :
+['Vin', 'Diesel', 'has', 'been', 'confirmed', 'to', 'play', 'Groot', 'Guardians']
+
+Actual Sentence :
+Ronnie Johnson will transfer from Purdue the school announced on Saturday
+Actual Summary :
+Ronnie Johnson will transfer from Purdue
+Our summary :
+['Ronnie', 'Johnson', 'will', 'transfer', 'from', 'Purdue']
+
+Actual Sentence :
+German Chancellor Angela Merkel has been injured while skiing in Switzerland her spokesman says
+Actual Summary :
+Angela Merkel has been injured while skiing in Switzerland
+Our summary :
+['Chancellor', 'Angela', 'Merkel', 'has', 'been', 'injured', 'while', 'skiing']
+
+Actual Sentence :
+Economic experts MPs and businessmen called for enacting laws that incriminate hard currency trafficking
+Actual Summary :
+Economic experts called for enacting laws that incriminate hard currency trafficking
+Our summary :
+['MPs', 'and', 'businessmen', 'called', 'for', 'enacting', 'laws', 'incriminate', 'hard', 'currency', 'trafficking']
+
+Actual Sentence :
+Bubba makes miraculous recovery with a little hel
+Actual Summary :
+Bubba makes recovery
+Our summary :
+['Bubba', 'makes', 'miraculous', 'recovery']
+
+Actual Sentence :
+AnastasiaDate the leading international dating service recently implemented new improvements to its highly esteemed website
+Actual Summary :
+AnastasiaDate implemented new improvements to its highly esteemed website
+Our summary :
+['AnastasiaDate', 'the', 'implemented', 'new', 'improvements', 'to', 'its', 'website']
+
+Actual Sentence :
+Several mailboxes were broken into in Oro Valley over the weekend
+Actual Summary :
+Several mailboxes were broken into in Oro Valley
+Our summary :
+['mailboxes', 'were', 'broken', 'into', 'in', 'Oro', 'Valley']
+
+Actual Sentence :
+Supportive Singles will gather for lunch at 1 pm Saturday at Gringo s in Fremont
+Actual Summary :
+Supportive Singles will gather for lunch
+Our summary :
+['Supportive', 'Singles', 'will', 'gather', 'for', 'lunch']
+
+Actual Sentence :
+Auckland Nines post match interview with Dale Cople
+Actual Summary :
+Auckland Nines post match interview
+Our summary :
+['Auckland', 'Nines', 'post', 'match', 'interview', 'with']
+
+Actual Sentence :
+TransLink has delayed the full roll out of the Compass Card system to next summer
+Actual Summary :
+TransLink has delayed out of the Compass Card system
+Our summary :
+['TransLink', 'has', 'delayed', 'the', 'full', 'roll', 'out', 'of', 'the', 'Compass', 'Card', 'system']
+
+Actual Sentence :
+Barber visited Afghanistan this week returning Wednesday night
+Actual Summary :
+Barber visited Afghanistan
+Our summary :
+['Barber', 'visited', 'Afghanistan', 'returning']
+
+Actual Sentence :
+PNM Resources Inc issued an update on its FY13 earnings guidance on Friday morning
+Actual Summary :
+PNM Resources Inc issued an update on its FY13 earnings guidance
+Our summary :
+['PNM', 'Resources', 'Inc', 'issued', 'an', 'on', 'its', 'FY13', 'earnings', 'guidance']
+
+Actual Sentence :
+The annual Shoton festival is celebrated in Lhasa from Aug 6 to 12
+Actual Summary :
+The Shoton festival is celebrated in Lhasa
+Our summary :
+['The', 'Shoton', 'festival', 'is', 'celebrated', 'in', 'Lhasa']
+
+Actual Sentence :
+MANILA Philippines Asian stock markets were muted Tuesday with little news to excite investors
+Actual Summary :
+Asian stock markets were muted
+Our summary :
+['MANILA', 'Philippines', 'Asian', 'stock', 'markets', 'were', 'muted', 'to', 'excite', 'investors']
+
+Actual Sentence :
+For the first time President Obama has publicly called for the release of Saeed Abedini
+Actual Summary :
+Obama has called for the release of Saeed Abedini
+Our summary :
+['Obama', 'has', 'called', 'for', 'the', 'release', 'of', 'Saeed', 'Abedini']
+
+Actual Sentence :
+Texan troubadour Alejandro Escovedo performs at Fairfield Theatre Company on StageOne 70 Sanford St Fairfield
+Actual Summary :
+Texan troubadour Alejandro Escovedo performs on StageOne Fairfield
+Our summary :
+['Alejandro', 'Escovedo', 'performs', 'at', 'Fairfield', 'Theatre', 'Company']
+
+Actual Sentence :
+Auburn University has cancelled classes today due to security concerns by parents and students
+Actual Summary :
+Auburn University has cancelled classes due to security concerns
+Our summary :
+['Auburn', 'University', 'has', 'cancelled', 'classes']
+
+Actual Sentence :
+Police are investigating after a man was found unconscious and with a serious head injury
+Actual Summary :
+Police are investigating after a man was found unconscious
+Our summary :
+['Police', 'are', 'investigating', 'after', 'a', 'man', 'was', 'found', 'unconscious']
+
+Actual Sentence :
+Two Michigan men have pleaded guilty in Bureau County Court to felony drug charges
+Actual Summary :
+Two Michigan men have pleaded guilty
+Our summary :
+['Two', 'Michigan', 'men', 'have', 'pleaded', 'guilty', 'to', 'felony', 'drug', 'charges']
+
+Actual Sentence :
+British telecom operator EE has added half a million 4G customers in the third quarter
+Actual Summary :
+EE has added half a million 4G customers in the third quarter
+Our summary :
+['EE', 'has', 'added', 'half', 'a', 'million', '4G', 'customers', 'in', 'the', 'third', 'quarter']
+
+Actual Sentence :
+A train crashed into a car Wednesday afternoon at a railroad crossing in Oakland Park
+Actual Summary :
+A train crashed into a car at a crossing in Oakland Park
+Our summary :
+['A', 'train', 'crashed', 'into', 'a', 'car']
+
+Actual Sentence :
+Farhan Akhtar was recently seen at the launch of The Lighthouse Project
+Actual Summary :
+Farhan Akhtar was seen at the launch of The Lighthouse Project
+Our summary :
+['Farhan', 'Akhtar', 'was', 'seen', 'at', 'the', 'launch', 'of', 'The', 'Lighthouse', 'Project']
+
+Actual Sentence :
+Police on Wednesday were investigating a man s body found under a downtown Knoxville overpass
+Actual Summary :
+A man s body found under a downtown overpass
+Our summary :
+['were', 'investigating', 'a', 'man', 's', 'body', 'found', 'under', 'a', 'downtown', 'Knoxville', 'overpass']
+
+Actual Sentence :
+Nike chairman Phil Knight has high hopes for the World Cup in Brazil this summer
+Actual Summary :
+Nike chairman Phil Knight has high hopes for the World Cup
+Our summary :
+['Phil', 'Knight', 'has', 'high', 'hopes', 'for', 'the', 'World', 'Cup', 'in', 'Brazil']
+
+Actual Sentence :
+Walmart will soon start offering auto insurance
+Actual Summary :
+Walmart will start offering auto insurance
+Our summary :
+['Walmart', 'will', 'start', 'offering', 'auto', 'insurance']
+
+Actual Sentence :
+Two men have consented to stand trial in relation to two separate Regina homicides
+Actual Summary :
+Two men have consented to stand trial to two separate Regina homicides
+Our summary :
+['Two', 'men', 'have', 'consented', 'to', 'stand', 'trial']
+
+Actual Sentence :
+A woman in Shahkot was allegedly murdered for opposing illegal mining in her area
+Actual Summary :
+A woman was murdered for opposing illegal mining
+Our summary :
+['A', 'woman', 'was', 'murdered', 'for', 'opposing', 'illegal', 'mining']
+
+Actual Sentence :
+how many trees are in the Amazon rainforest and how many different species are there
+Actual Summary :
+How many trees are in the Amazon rainforest
+Our summary :
+['how', 'many', 'trees', 'are', 'in', 'the', 'Amazon', 'rainforest']
+
+Actual Sentence :
+Many Oklahoma City residents don t realize election day is less than three weeks away
+Actual Summary :
+Election day is less than three weeks away
+Our summary :
+['City', 'residents', 'don', 't', 'realize', 'day', 'is', 'less', 'than', 'away']
+
+Actual Sentence :
+A judge has ruled an adolescent brain specialist can testify at Austin Sigg s trial
+Actual Summary :
+A judge has ruled an brain specialist can testify at Austin Sigg s trial
+Our summary :
+['A', 'judge', 'has', 'ruled', 'an', 'brain', 'specialist', 'can', 'testify', 'at', 'trial']
+
+Actual Sentence :
+An Oak Forest police officer died after a crash at 159th and Cicero
+Actual Summary :
+An Oak Forest police officer died after a crash
+Our summary :
+['An', 'Oak', 'Forest', 'police', 'officer', 'died', 'after', 'a', 'crash']
+
+Actual Sentence :
+MARSHFIELD Wis Marshfield police shot and killed a pit bull last night
+Actual Summary :
+Police shot a pit bull
+Our summary :
+['police', 'shot', 'and', 'killed', 'a', 'pit', 'bull']
+
+Actual Sentence :
+A French university shut down a pro Israel event after disruptions by pro Palestinian activists
+Actual Summary :
+A French university shut down a pro Israel event after disruptions
+Our summary :
+['A', 'French', 'university', 'shut', 'down', 'a', 'pro', 'Israel', 'event']
+
+Actual Sentence :
+Pirate FM has been told seagulls are being lured to their death in St Ives
+Actual Summary :
+Seagulls are being lured to their death in St Ives
+Our summary :
+['Pirate', 'FM', 'has', 'been', 'told', 'are', 'being', 'lured', 'to', 'their', 'death']
+
+Actual Sentence :
+The state s attorney says four people are facing drug related charges in Franklin County
+Actual Summary :
+Four people are facing drug related charges in Franklin County
+Our summary :
+['four', 'people', 'are', 'facing', 'drug', 'related', 'charges', 'in', 'Franklin', 'County']
+
+Actual Sentence :
+Iowa Democrats rallying Saturday night as an upcoming elections looms
+Actual Summary :
+Iowa Democrats rallying as an elections looms
+Our summary :
+['Iowa', 'Democrats', 'rallying', 'as', 'an', 'elections', 'looms']
+
+Actual Sentence :
+Firefighters say lightning sparked a house fire in the Vermont town of Bakersfield
+Actual Summary :
+Lightning sparked a house fire in the Vermont town
+Our summary :
+['lightning', 'sparked', 'a', 'house', 'fire']
+
+Actual Sentence :
+The Dallas Morning News today pulled its online paywall
+Actual Summary :
+The Dallas Morning News today pulled its paywall
+Our summary :
+['The', 'Dallas', 'Morning', 'News', 'today', 'pulled', 'its', 'online', 'paywall']
+
+Actual Sentence :
+US stocks declined 0 5 yesterday as commodities slumped with copper and oil prices
+Actual Summary :
+US stocks declined as commodities slumped
+Our summary :
+['US', 'stocks', 'declined', '0']
+
+Actual Sentence :
+Governor Pat Quinn says he will act on the medical marijuana bill next week
+Actual Summary :
+Pat Quinn will act on the medical marijuana bill
+Our summary :
+['Pat', 'Quinn', 'will', 'act', 'on', 'the', 'medical', 'marijuana', 'bill']
+
+Actual Sentence :
+Two Florida teens suspected of bullying a girl to death are now facing charges
+Actual Summary :
+Two Florida teens suspected of bullying are facing charges
+Our summary :
+['Two', 'Florida', 'teens', 'suspected', 'of', 'bullying', 'are', 'facing', 'charges']
+
+Actual Sentence :
+The doors of the popular Tesla vehicles can be hacked according to one security researcher
+Actual Summary :
+The doors of the Tesla vehicles can be hacked
+Our summary :
+['The', 'doors', 'of', 'the', 'popular', 'Tesla', 'vehicles', 'can', 'be', 'hacked']
+
+Actual Sentence :
+A con man is being sought after defrauding job seekers in Vicksburg Greenwood and Forest
+Actual Summary :
+A con man is being sought after defrauding job seekers
+Our summary :
+['A', 'con', 'man', 'is', 'being', 'sought', 'after', 'defrauding', 'job', 'seekers']
+
+Actual Sentence :
+Simon Cowell is planning a special holiday proposal 
+Actual Summary :
+Simon Cowell is planning a proposal
+Our summary :
+['Simon', 'Cowell', 'is', 'planning', 'a', 'special', 'holiday', 'proposal']
+
+Actual Sentence :
+An assistant city manager nearly lost his home to foreclosure according to court records
+Actual Summary :
+An assistant city manager nearly lost his home to foreclosure
+Our summary :
+['An', 'assistant', 'city', 'manager', 'nearly', 'lost', 'his', 'home', 'to', 'foreclosure']
+
+Actual Sentence :
+The rupee remained flat against the dollar in the interbank market on Thursday dealers said
+Actual Summary :
+The rupee remained flat
+Our summary :
+['The', 'rupee', 'remained', 'flat', 'against', 'the', 'dollar']
+
+Actual Sentence :
+Disney Magical World is now available for the Nintendo 3DS according to Nintendo
+Actual Summary :
+Disney Magical World is now available for the Nintendo 3DS
+Our summary :
+['Disney', 'Magical', 'World', 'is', 'available', 'for', 'the', 'Nintendo', '3DS']
+
+Actual Sentence :
+Buyers are going back to Greece according to new research from TheMoveChannel com
+Actual Summary :
+Buyers are going back to Greece
+Our summary :
+['Buyers', 'are', 'going', 'back', 'to', 'Greece']
+
+Actual Sentence :
+Governor Chris Christie signed 10 gun bills into law today
+Actual Summary :
+Governor Chris Christie signed 10 gun bills
+Our summary :
+['Chris', 'Christie', 'signed', '10', 'gun', 'bills']
+
+Actual Sentence :
+ Smartphones are becoming smarter and will be smarter than you by 2017
+Actual Summary :
+Smartphones are becoming and will be smarter by 2017
+Our summary :
+['Smartphones', 'are', 'becoming', 'smarter', 'will', 'be']
+
+Actual Sentence :
+Allrounder James Faulkner has suffered a knee injury ahead of the Twenty20 series against England
+Actual Summary :
+James Faulkner has suffered a knee injury
+Our summary :
+['James', 'Faulkner', 'has', 'suffered', 'a', 'knee', 'injury']
+
+Actual Sentence :
+Mark Darcy is dead and the world s most famous singleton has become a widow
+Actual Summary :
+Mark Darcy is dead
+Our summary :
+['Mark', 'Darcy', 'is', 'dead', 'has', 'become', 'a', 'widow']
+
+Actual Sentence :
+Facebook has opened an office in Montreal to better tap into business opportunities in Quebec
+Actual Summary :
+Facebook has opened an office in Montreal
+Our summary :
+['Facebook', 'has', 'opened', 'an', 'office', 'in', 'Montreal']
+
+Actual Sentence :
+The Ravens have not closed the door on tight end Dennis Pitta returning this season
+Actual Summary :
+The Ravens have not closed the door on Dennis Pitta returning
+Our summary :
+['The', 'Ravens', 'have', 'not', 'closed', 'the', 'door']
+
+Actual Sentence :
+An officer shot a dog who bit a juvenile female in DC today officials said
+Actual Summary :
+An officer shot a dog who bit a juvenile female in DC
+Our summary :
+['An', 'officer', 'shot', 'a', 'dog', 'female']
+
+Actual Sentence :
+Police say 13 parakeets and six parakeet eggs have been stolen from a Manassas home
+Actual Summary :
+13 parakeets have been stolen from a Manassas home
+Our summary :
+['13', 'parakeets', 'and', 'six', 'parakeet', 'eggs', 'have', 'been', 'stolen', 'from', 'a', 'Manassas', 'home']
+
+Actual Sentence :
+Kyle Jarvis the Zimbabwe fast bowler has retired from international cricket
+Actual Summary :
+Kyle Jarvis has retired from international cricket
+Our summary :
+['Kyle', 'Jarvis', 'the', 'has', 'retired', 'from', 'international', 'cricket']
+
+Actual Sentence :
+Early voting is open across Eastern Idaho and the entire state
+Actual Summary :
+Early voting is open across Eastern Idaho
+Our summary :
+['Early', 'voting', 'is', 'open', 'across', 'Eastern', 'Idaho']
+
+Actual Sentence :
+Who s in charge of the Liberia Football Association
+Actual Summary :
+Who s in charge
+Our summary :
+['Who', 's', 'in', 'charge']
+
+Actual Sentence :
+Actress Gail Gerber has died at the age of 76
+Actual Summary :
+Actress Gail Gerber has died
+Our summary :
+['Gail', 'Gerber', 'has', 'died', 'at', 'the', 'age', 'of', '76']
+
+Actual Sentence :
+Wolfsburg has signed Brazil midfielder Gustavo from Bundesliga rival Bayern Munich
+Actual Summary :
+Wolfsburg has signed Gustavo from Bayern Munich
+Our summary :
+['Wolfsburg', 'has', 'signed', 'Brazil', 'midfielder', 'Gustavo', 'Bayern', 'Munich']
+
+Actual Sentence :
+Canadian housing starts rose more than expected in September official data showed on Tuesday
+Actual Summary :
+Canadian housing starts rose more than expected in September data showed
+Our summary :
+['Canadian', 'housing', 'starts', 'rose', 'more', 'than', 'expected']
+
+Actual Sentence :
+Saints have appointed a new chairman to replace Nicola Cortese who controversially quit in January
+Actual Summary :
+Saints have appointed a new chairman
+Our summary :
+['Saints', 'have', 'appointed', 'a', 'new', 'chairman', 'to', 'replace', 'Nicola', 'Cortese']
+
+Actual Sentence :
+Rupiah lost more value against the US dollar in interbank transaction on Tuesday
+Actual Summary :
+Rupiah lost more value against the US dollar
+Our summary :
+['Rupiah', 'lost', 'more', 'value', 'against', 'the', 'US', 'dollar']
+
+Actual Sentence :
+A longtime NBC News correspondent and anchor has died
+Actual Summary :
+A NBC News correspondent has died
+Our summary :
+['A', 'longtime', 'NBC', 'News', 'correspondent', 'and', 'has', 'died']
+
+Actual Sentence :
+An Illinois man has been accused of setting two dumpsters on fire in Iowa City
+Actual Summary :
+An man has been accused of setting two dumpsters on fire
+Our summary :
+['An', 'Illinois', 'man', 'has', 'been', 'accused', 'of', 'setting', 'two', 'dumpsters', 'on', 'fire', 'City']
+
+Actual Sentence :
+Over 100 Chattanoogans took part in this year s second annual Rally to Improve Birth
+Actual Summary :
+Over 100 Chattanoogans took part in this year s Rally to Improve Birth
+Our summary :
+['Over', '100', 'Chattanoogans', 'took', 'part', 'Rally']
+
+Actual Sentence :
+Justin Bieber invested 1 1 million on a new app called Shots Of Me 
+Actual Summary :
+Justin Bieber invested 1 1 million on a new app
+Our summary :
+['Justin', 'Bieber', 'invested', '1', '1', 'million', 'on', 'a', 'new', 'app']
+
+Actual Sentence :
+Two well known police chiefs in Schuylkill County will be retiring this month
+Actual Summary :
+Two police chiefs will be retiring
+Our summary :
+['Two', 'police', 'chiefs', 'will', 'be', 'retiring']
+
+Actual Sentence :
+Versarien widened its H1 pretax loss to 0 4m from a loss of 0 2m
+Actual Summary :
+Versarien widened its H1 pretax loss to 0 4m
+Our summary :
+['Versarien', 'widened', 'its', 'H1', 'pretax', 'loss', 'to', '0', '4m']
+
+Actual Sentence :
+Pittsburgh has signed veteran kicker Shayne Graham in addition to Dwyer and Velasco
+Actual Summary :
+Pittsburgh has signed Shayne Graham
+Our summary :
+['Pittsburgh', 'has', 'signed', 'kicker', 'Shayne', 'Graham']
+
+Actual Sentence :
+Maggie Rose sheds her innocence in her brand new music video for Looking Back Now 
+Actual Summary :
+Maggie Rose sheds for Looking Back Now
+Our summary :
+['Maggie', 'Rose', 'sheds', 'her', 'innocence', 'video']
+
+Actual Sentence :
+Carolyn Johnson is joining KNBC the NBC owned station in Los Angeles in June
+Actual Summary :
+Carolyn Johnson is joining KNBC the station in Los Angeles
+Our summary :
+['Carolyn', 'Johnson', 'is', 'joining', 'KNBC', 'the', 'NBC', 'station']
+
+Actual Sentence :
+Brad Pitt and Angelina Jolie reportedly plan to wed on a boat in Scottish waters
+Actual Summary :
+Brad Pitt and Angelina Jolie plan to wed on a boat
+Our summary :
+['Brad', 'Pitt', 'and', 'Angelina', 'Jolie', 'plan', 'to', 'wed', 'on', 'a', 'boat']
+
+Actual Sentence :
+Reza Aslan told Piers Morgan Monday night that defending himself to Fox News was embarrassing 
+Actual Summary :
+Reza Aslan told Piers Morgan
+Our summary :
+['Aslan', 'told', 'defending', 'himself', 'to', 'Fox', 'News', 'was', 'embarrassing']
+
+Actual Sentence :
+Selena Gomez has caused a bit of controversy with her Dallas Cowboys Thanksgiving game performance
+Actual Summary :
+Selena Gomez has caused a bit of controversy with her Thanksgiving performance
+Our summary :
+['Selena', 'Gomez', 'has', 'caused', 'a', 'bit', 'of', 'controversy', 'with', 'performance']
+
+Actual Sentence :
+John Tortorella is on the hot seat with the Vancouver Canucks
+Actual Summary :
+John Tortorella is on the hot seat
+Our summary :
+['John', 'Tortorella', 'is', 'on', 'the', 'hot', 'seat']
+
+Actual Sentence :
+A murder suspect out on bond is back in jail after a child custody dispute
+Actual Summary :
+A murder suspect is back in jail
+Our summary :
+['A', 'murder', 'suspect', 'is', 'back', 'in', 'after', 'a', 'child', 'custody', 'dispute']
+
+Actual Sentence :
+Atascadero is the heart of family fun on California s Central Coast
+Actual Summary :
+Atascadero is the heart of family fun
+Our summary :
+['Atascadero', 'is', 'the', 'heart', 'of', 'family', 'fun', 'on', 's', 'Central', 'Coast']
+
+Actual Sentence :
+Telstra is cutting 1 100 staff as part of a restructure of its operations business
+Actual Summary :
+Telstra is cutting 1 100 staff as part of a restructure
+Our summary :
+['Telstra', 'is', 'cutting', '1', '100', 'staff']
+
+Actual Sentence :
+US wants cars to be able to talk to each other in traffic
+Actual Summary :
+US wants cars to be able to talk to each other
+Our summary :
+['US', 'wants', 'cars', 'to', 'be']
+
+Actual Sentence :
+Speculation President Barack Obama may pardon former Ald
+Actual Summary :
+Barack Obama may pardon Ald
+Our summary :
+['Barack', 'Obama', 'may', 'pardon', 'former', 'Ald']
+
+Actual Sentence :
+A possible meth lab explosion blew a wall out at a Jamestown home
+Actual Summary :
+A possible meth lab explosion blew a wall out
+Our summary :
+['A', 'meth', 'lab', 'explosion', 'blew', 'a', 'wall']
+
+Actual Sentence :
+This morning Microsoft announced a big system update coming to the Xbox One next week
+Actual Summary :
+Microsoft announced a big update coming to the Xbox One next week
+Our summary :
+['Microsoft', 'announced', 'a', 'system', 'update']
+
+Actual Sentence :
+The mild winter and early spring means that herring will be coming early this year
+Actual Summary :
+Herring will be coming early this year
+Our summary :
+['herring', 'will', 'be', 'coming', 'early']
+
+Actual Sentence :
+Kenan Thompson has confirmed that he and wife Christina Evangeline are expecting their first child
+Actual Summary :
+Kenan Thompson and wife Christina Evangeline are expecting
+Our summary :
+['Kenan', 'Thompson', 'and', 'Christina', 'Evangeline', 'are', 'expecting', 'their', 'first', 'child']
+
+Actual Sentence :
+In September gasoline prices grew by 3 3 in Russia in comparison to August
+Actual Summary :
+Gasoline prices grew
+Our summary :
+['gasoline', 'prices', 'grew', 'by', '3', '3', 'in', 'Russia']
+
+Actual Sentence :
+Hollywood actor and comedian Kevin Hart paid a visit to the Coronation Street set today
+Actual Summary :
+Actor Kevin Hart paid a visit to the Coronation Street set
+Our summary :
+['Kevin', 'Hart', 'paid', 'a', 'visit', 'to', 'the', 'Coronation', 'Street', 'set']
+
+Actual Sentence :
+George Zimmerman was taken into custody in Florida according to several reports
+Actual Summary :
+George Zimmerman was taken into custody in Florida
+Our summary :
+['George', 'Zimmerman', 'was', 'taken', 'into', 'custody']
+
+Actual Sentence :
+Mark Wahlberg has warned Justin Bieber not to be so naughty 
+Actual Summary :
+Mark Wahlberg has warned Justin Bieber
+Our summary :
+['Mark', 'Wahlberg', 'has', 'warned', 'Justin', 'Bieber', 'not', 'to', 'be', 'naughty']
+
+Actual Sentence :
+Fiji has the largest deployment of troops per ratio of population in the United Nations
+Actual Summary :
+Fiji has the largest deployment of troops in the United Nations
+Our summary :
+['Fiji', 'has', 'the', 'largest', 'deployment', 'of', 'troops', 'per', 'ratio']
+
+Actual Sentence :
+Kirsten Dunst has signed up to sci fi drama Midnight Special
+Actual Summary :
+Kirsten Dunst has signed up to Midnight Special
+Our summary :
+['Kirsten', 'Dunst', 'has', 'signed', 'up', 'to', 'Midnight', 'Special']
+
+Actual Sentence :
+BioWare recently revealed the release date of its upcoming action role playing game Dragon Age
+Actual Summary :
+BioWare revealed the release date of its game Dragon Age
+Our summary :
+['BioWare', 'revealed', 'the', 'date', 'of', 'its', 'action', 'role', 'game', 'Dragon', 'Age']
+
+Actual Sentence :
+Personally Yours celebrates its 21st anniversary in Occoquan this weekend with a storewide sale
+Actual Summary :
+Personally Yours celebrates its anniversary with a storewide sale
+Our summary :
+['Personally', 'Yours', 'celebrates', 'its', '21st', 'anniversary']
+
+Actual Sentence :
+I have to admit I ve never wondered what happens to dead eagles
+Actual Summary :
+What happens to dead eagles
+Our summary :
+['what', 'happens', 'to', 'dead', 'eagles']
+
+Actual Sentence :
+Hyundai on Tuesday unveiled a new compact sedan called Xcent
+Actual Summary :
+Hyundai unveiled a new compact sedan called Xcent
+Our summary :
+['Hyundai', 'unveiled', 'a', 'new', 'compact', 'sedan']
+
+Actual Sentence :
+The Broncos agreed to terms with UFA CB Aqib Talib on a six year contract
+Actual Summary :
+The Broncos agreed to terms with Aqib Talib
+Our summary :
+['The', 'Broncos', 'agreed', 'to', 'terms', 'with', 'UFA', 'CB', 'Aqib', 'Talib']
+
+Actual Sentence :
+Former X Factor contestant Ruth Lorenzo will represent Spain in the Eurovision Song Contest
+Actual Summary :
+Ruth Lorenzo will represent Spain in the Eurovision Song Contest
+Our summary :
+['Ruth', 'Lorenzo', 'will', 'represent', 'Spain', 'in', 'the', 'Eurovision', 'Song', 'Contest']
+
+Actual Sentence :
+The Tigers rallied to edge Goshen 6 5 in NLC action at WCH
+Actual Summary :
+The Tigers rallied to edge Goshen 6
+Our summary :
+['The', 'Tigers', 'rallied', 'to', 'edge', 'Goshen', '6', '5']
+
+Actual Sentence :
+Peoples Bancorp in Marietta Ohio has agreed to buy North Akron Savings Bank in Ohio
+Actual Summary :
+Peoples Bancorp has agreed to buy North Akron Savings Bank in Ohio
+Our summary :
+['Peoples', 'Bancorp', 'has', 'agreed', 'to', 'buy', 'North', 'Akron', 'Savings', 'Bank', 'in', 'Ohio']
+
+Actual Sentence :
+Malaysian rubber prices closed higher today on renewed buying interest after recent losses dealers said
+Actual Summary :
+Rubber prices closed higher
+Our summary :
+['Malaysian', 'rubber', 'prices', 'closed', 'higher', 'on', 'renewed', 'buying', 'interest']
+
+Actual Sentence :
+LongHorn Steakhouse 4300 Franklin Ave opened Monday to a healthy lunch crowd
+Actual Summary :
+LongHorn Steakhouse opened to a healthy lunch crowd
+Our summary :
+['LongHorn', 'Steakhouse', '4300', 'Franklin', 'Ave', 'opened']
+
+Actual Sentence :
+A fourth generation Beresford insurance agency has expanded to Sioux Falls
+Actual Summary :
+A Beresford insurance agency has expanded to Sioux Falls
+Our summary :
+['A', 'Beresford', 'insurance', 'agency', 'has', 'expanded', 'to', 'Sioux', 'Falls']
+
+Actual Sentence :
+Open enrollment for School Choice in Bay County began Monday
+Actual Summary :
+Open enrollment for School Choice began
+Our summary :
+['Open', 'enrollment', 'for', 'School', 'Choice', 'began']
+
+Actual Sentence :
+Twitter has acquired social data firm Gnip for an undisclosed amount
+Actual Summary :
+Twitter has acquired Gnip
+Our summary :
+['Twitter', 'has', 'acquired', 'data', 'firm', 'Gnip']
+
+Actual Sentence :
+Attorney General Mike DeWine has been released from the hospital following a bout of vertigo
+Actual Summary :
+Attorney General Mike DeWine has been released from the hospital
+Our summary :
+['Mike', 'DeWine', 'has', 'been', 'released', 'from', 'the', 'hospital']
+
+Actual Sentence :
+American Airlines said it will hire 1 500 pilots in the next five years
+Actual Summary :
+American Airlines will hire 1 500 pilots
+Our summary :
+['American', 'Airlines', 'will', 'hire', '1', '500', 'pilots', 'years']
+
+Actual Sentence :
+Finance Minister AMA Muhith said Monday that undisclosed income in the economy has increased manifold
+Actual Summary :
+Undisclosed income has increased manifold
+Our summary :
+['AMA', 'Muhith', 'undisclosed', 'income', 'has', 'increased', 'manifold']
+
+Actual Sentence :
+Michael Vick has signed with the New York Jets after five seasons in Philadelphia
+Actual Summary :
+Michael Vick has signed with the New York Jets
+Our summary :
+['Michael', 'Vick', 'has', 'signed', 'with', 'the', 'New', 'York', 'Jets']
+
+Actual Sentence :
+Tucson food trucks are rounding up in Marana today for a good cause
+Actual Summary :
+Food trucks are rounding up in Marana today
+Our summary :
+['Tucson', 'food', 'trucks', 'are', 'rounding', 'up', 'in', 'Marana']
+
+Actual Sentence :
+The word Twerking has been added to the Oxford English Dictionary it has been revealed
+Actual Summary :
+The word Twerking has been added to the Oxford English Dictionary
+Our summary :
+['The', 'Twerking', 'has', 'been', 'added', 'to', 'the', 'Oxford', 'English', 'Dictionary']
+
+Actual Sentence :
+The housing recovery in the United States could run out of steam in 2014
+Actual Summary :
+The housing recovery could run out of steam
+Our summary :
+['The', 'housing', 'recovery', 'could', 'run', 'out', 'of', 'steam', 'in', '2014']
+
+Actual Sentence :
+Local art lovers spent the afternoon eating lunch and learning together
+Actual Summary :
+Art lovers spent eating lunch and learning
+Our summary :
+['lovers', 'spent', 'the', 'afternoon', 'eating', 'lunch']
+
+Actual Sentence :
+Police on Friday arrested seven illegal Afghan immigrants within the remits of Civil Lines
+Actual Summary :
+Police arrested seven illegal Afghan immigrants
+Our summary :
+['Police', 'arrested', 'seven', 'illegal', 'Afghan', 'immigrants']
+
+Actual Sentence :
+Authorities in Pike County say a body was found Tuesday in a burned SUV
+Actual Summary :
+A body was found in a burned SUV
+Our summary :
+['a', 'body', 'was', 'found', 'in', 'a', 'burned', 'SUV']
+
+Actual Sentence :
+And each one may be fairly small cashes advance laws kentucky
+Actual Summary :
+Cashes advance laws kentucky
+Our summary :
+['And', 'each', 'one', 'may', 'be', 'cashes', 'advance', 'laws', 'kentucky']
+
+Actual Sentence :
+Besides she feels the country is currently very disillusioned with politics and politicians 
+Actual Summary :
+She feels the country is very disillusioned
+Our summary :
+['she', 'feels', 'the', 'country', 'is', 'disillusioned']
+
+Actual Sentence :
+Tim Tebow has revealed that he would like to adopt a child someday
+Actual Summary :
+Tim Tebow would like to adopt someday
+Our summary :
+['Tim', 'Tebow', 'would', 'like', 'to', 'adopt', 'a', 'child']
+
+Actual Sentence :
+A former Washington Redskins player is now beasting out with Dr James Andrews
+Actual Summary :
+A former Washington Redskins player is beasting out with James Andrews
+Our summary :
+['A', 'former', 'Washington', 'Redskins', 'player', 'is', 'beasting', 'out']
+
+Actual Sentence :
+Singer actress and business mogul Jennifer Lopez is launching her 20th fragrance calling it JLove
+Actual Summary :
+Jennifer Lopez is launching her 20th fragrance
+Our summary :
+['Jennifer', 'Lopez', 'is', 'launching', 'her', '20th', 'fragrance']
+
+Actual Sentence :
+I recently wrote that even as recently as 2007 banks were paying 4 interest
+Actual Summary :
+Recently as 2007 banks were paying 4 interest
+Our summary :
+['as', '2007', 'banks', 'were', 'paying', '4', 'interest']
+
+Actual Sentence :
+Firefighters are battling a wildfire south of Flagstaff near the Canyon Vista Campground
+Actual Summary :
+Firefighters are battling a wildfire south of Flagstaff
+Our summary :
+['Firefighters', 'are', 'battling', 'a', 'wildfire', 'south', 'of', 'Flagstaff', 'near', 'Campground']
+
+Actual Sentence :
+RICHMOND Calif Two small planes collided over the northern San Francisco Bay on Sunday
+Actual Summary :
+Two small planes collided over the San Francisco Bay
+Our summary :
+['Two', 'small', 'planes', 'collided', 'over', 'the', 'northern', 'San', 'Francisco', 'Bay']
+
+Actual Sentence :
+After months of tension and rumors Naya Rivera has reportedly been fired from Glee
+Actual Summary :
+Naya Rivera has been fired from Glee
+Our summary :
+['Naya', 'Rivera', 'has', 'been', 'fired', 'from', 'Glee']
+
+Actual Sentence :
+St Cloud police are investigating a reported sexual assault Friday in the Southside University neighborhood
+Actual Summary :
+St Cloud police are investigating a reported sexual assault
+Our summary :
+['Cloud', 'police', 'are', 'investigating', 'a', 'reported', 'sexual', 'assault']
+
+Actual Sentence :
+Former Vice President Walter Mondale underwent successful heart surgery on Wednesday in Rochester Minnesota
+Actual Summary :
+Walter Mondale underwent heart surgery
+Our summary :
+['Walter', 'Mondale', 'underwent', 'successful', 'heart', 'surgery']
+
+Actual Sentence :
+The Chicago Blackhawks announced today that they have activated Bryan Bickell from Injured Reserve
+Actual Summary :
+The Chicago Blackhawks have activated Bryan Bickell
+Our summary :
+['The', 'Chicago', 'Blackhawks', 'have', 'activated', 'Bryan', 'Bickell']
+
+Actual Sentence :
+Security personnel dispatched to Salaga to restore order have been involved in a road crash
+Actual Summary :
+Security personnel dispatched to Salaga have been involved in a road crash
+Our summary :
+['Security', 'personnel', 'dispatched', 'to', 'restore', 'order', 'have', 'been', 'involved', 'in', 'a', 'crash']
+
+Actual Sentence :
+Several teens have been arrested for allegedly vandalizing a golf course in Whitewater last month
+Actual Summary :
+Several teens have been arrested for allegedly vandalizing a golf course
+Our summary :
+['teens', 'have', 'been', 'arrested', 'for', 'vandalizing', 'a', 'golf', 'course', 'Whitewater']
+
+Actual Sentence :
+Maximo Park have become the latest rockers to launch their own beer
+Actual Summary :
+Maximo Park have become to launch their own beer
+Our summary :
+['Maximo', 'Park', 'have', 'become', 'the', 'rockers', 'to', 'launch', 'their', 'own', 'beer']
+
+Actual Sentence :
+Nelson Mandela has made dramatic progress his daughter said as he celebrates his 95th birthday
+Actual Summary :
+Nelson Mandela has made dramatic progress
+Our summary :
+['Nelson', 'Mandela', 'has', 'made', 'dramatic', 'progress', 'his']
+
+Actual Sentence :
+Veteran New York Yankees pitcher Andy Pettitte on Friday announced his retirement from baseball
+Actual Summary :
+Andy Pettitte announced his retirement from baseball
+Our summary :
+['Yankees', 'pitcher', 'Andy', 'Pettitte', 'announced', 'his', 'retirement', 'baseball']
+
+Actual Sentence :
+A fire reported by a passerby gutted a Ridgewood barn this evening
+Actual Summary :
+A fire gutted a Ridgewood barn
+Our summary :
+['A', 'fire', 'reported', 'by', 'a', 'passerby', 'gutted', 'a', 'Ridgewood', 'barn']
+
+Actual Sentence :
+ I was thankful to the Lord really Trupo said of that day 69 years ago
+Actual Summary :
+I was thankful to the Lord
+Our summary :
+['I', 'was', 'thankful', 'to', 'the', 'Lord']
+
+Actual Sentence :
+Nintendo announced this morning that it is officially ending production of Wii console
+Actual Summary :
+Nintendo is ending production of Wii console
+Our summary :
+['Nintendo', 'is', 'ending', 'production', 'of', 'Wii', 'console']
+
+Actual Sentence :
+Federal prosecutors say a metro Atlanta woman has been sentenced in an identity theft scheme
+Actual Summary :
+A Atlanta woman has been sentenced in an identity theft scheme
+Our summary :
+['a', 'metro', 'Atlanta', 'woman', 'has', 'been', 'sentenced', 'in', 'an', 'identity', 'theft', 'scheme']
+
+Actual Sentence :
+Mountain Range and Grand Junction have joined this week s On The Mat wrestling rankings
+Actual Summary :
+Mountain Range and Grand Junction have joined On The wrestling rankings
+Our summary :
+['Mountain', 'Range', 'and', 'Grand', 'Junction', 'have', 'joined', 's', 'The', 'Mat', 'wrestling', 'rankings']
+
+Actual Sentence :
+UBS upgraded Mallinckrodt from Sell to Buy with a price target of 84 00
+Actual Summary :
+UBS upgraded Mallinckrodt to Buy
+Our summary :
+['UBS', 'upgraded', 'Mallinckrodt', 'from', 'Sell', 'to', 'Buy']
+
+Actual Sentence :
+UK pop punk quintet Neck Deep have announced their debut Australian tour
+Actual Summary :
+Neck Deep have announced their Australian tour
+Our summary :
+['Neck', 'Deep', 'have', 'announced', 'their', 'debut', 'Australian', 'tour']
+
+Actual Sentence :
+Sally Bercow has confessed that she is deeply unsuited to being the Speaker s wife 
+Actual Summary :
+Sally Bercow is deeply unsuited to being the Speaker s wife
+Our summary :
+['Sally', 'Bercow', 'is', 'unsuited', 'to', 'being', 'the', 'Speaker', 's', 'wife']
+
+Actual Sentence :
+A Bainbridge man was killed in a fiery one car crash Monday in Ross County
+Actual Summary :
+A Bainbridge man was killed in a fiery crash
+Our summary :
+['A', 'Bainbridge', 'man', 'was', 'killed', 'in', 'a', 'fiery', 'crash']
+
+Actual Sentence :
+hhgregg will open a new store in the Bloomington Ind area on August 15
+Actual Summary :
+Hhgregg will open a store in the Bloomington Ind area
+Our summary :
+['hhgregg', 'will', 'open', 'a', 'new', 'store', 'in', 'the', 'Bloomington', 'Ind', 'area']
+
+Actual Sentence :
+Lieutenant General Daya Ratnayake assumed duties as the 20th Commander of the Army from today
+Actual Summary :
+Lieutenant General Daya Ratnayake assumed duties
+Our summary :
+['General', 'Daya', 'Ratnayake', 'assumed', 'duties']
+
+Actual Sentence :
+A man was shot to death outside a Miami home early Friday morning
+Actual Summary :
+A man was shot to death outside a Miami home
+Our summary :
+['A', 'man', 'was', 'shot', 'to', 'death', 'outside', 'a', 'Miami', 'home']
+
+Actual Sentence :
+Amy is showing us how to make a slow cooker apple bourbon pulled pork sandwich
+Actual Summary :
+A slow cooker apple bourbon pulled pork sandwich
+Our summary :
+['how', 'to', 'make', 'a', 'cooker', 'apple', 'bourbon', 'pulled', 'sandwich']
+
+Actual Sentence :
+After locking lips with a man in Bombay Talkies Randeep has done it again
+Actual Summary :
+Randeep has done again
+Our summary :
+['Randeep', 'has', 'done', 'it', 'again']
+
+Actual Sentence :
+TheraPearl an American health brand has appointed Brandnation to assist with its UK launch
+Actual Summary :
+TheraPearl has appointed Brandnation
+Our summary :
+['an', 'brand', 'has', 'appointed', 'to', 'assist', 'with', 'its', 'UK', 'launch']
+
+Actual Sentence :
+A fire late Monday destroyed a South Bend home
+Actual Summary :
+A fire destroyed a South Bend home
+Our summary :
+['A', 'fire', 'destroyed', 'a', 'South', 'Bend', 'home']
+
+Actual Sentence :
+Time Warner Cable is launching a new secure national Wi Fi network called TWCWiFi Passpoint 
+Actual Summary :
+Time Warner Cable is launching a new secure Wi Fi network
+Our summary :
+['Time', 'Warner', 'Cable', 'is', 'launching', 'a', 'secure', 'national', 'Wi', 'Fi', 'network']
+
+Actual Sentence :
+Gas prices spike nearly ten cents in two days as drivers fill up
+Actual Summary :
+Gas prices spike
+Our summary :
+['Gas', 'prices', 'spike', 'nearly', 'ten', 'cents', 'in']
+
+Actual Sentence :
+Grand Forks police are investigating an attempted armed robbery
+Actual Summary :
+Police are investigating an attempted robbery
+Our summary :
+['police', 'are', 'investigating', 'an', 'attempted', 'armed', 'robbery']
+
+Actual Sentence :
+The UVa baseball team is ranked 1 in two different preseason polls released Monday
+Actual Summary :
+The UVa team is ranked 1 in two preseason polls
+Our summary :
+['The', 'UVa', 'baseball', 'team', 'is', 'ranked', '1', 'in', 'two', 'preseason', 'polls', 'released']
+
+Actual Sentence :
+Programming Alert Countdown to UFC 163 premieres tonight on FUEL TV at 11PM ET
+Actual Summary :
+Alert Countdown to UFC 163 premieres tonight on FUEL TV
+Our summary :
+['Programming', 'Alert', 'Countdown', 'to', 'UFC', '163', 'premieres', 'tonight']
+
+Actual Sentence :
+North Las Vegas crews were called to a garage fire Wednesday afternoon
+Actual Summary :
+North Las Vegas crews were called to a garage fire
+Our summary :
+['North', 'Las', 'Vegas', 'crews', 'were', 'called', 'to', 'a', 'garage', 'fire']
+
+Actual Sentence :
+Alexander Lukashenko has visited the Klimovichi district of the Mogilev region
+Actual Summary :
+Alexander Lukashenko has visited the Klimovichi district
+Our summary :
+['Alexander', 'Lukashenko', 'has', 'visited', 'the', 'Klimovichi', 'district']
+
+Actual Sentence :
+No not every person is stupid
+Actual Summary :
+Every person is stupid
+Our summary :
+['not', 'every', 'person', 'is', 'stupid']
+
+Actual Sentence :
+UK construction was strong in Feb with the PMI at 62 6
+Actual Summary :
+UK construction was strong
+Our summary :
+['UK', 'construction', 'was', 'strong', 'in', 'Feb']
+
+Actual Sentence :
+Sure river rock casino express awards is incredibly easy
+Actual Summary :
+River rock casino express is
+Our summary :
+['casino', 'express', 'awards', 'is', 'incredibly', 'easy']
+
+Actual Sentence :
+In a recent Instagram post Miley Cyrus showed off her new ink
+Actual Summary :
+Miley Cyrus showed off her new ink
+Our summary :
+['Miley', 'Cyrus', 'showed', 'off', 'her', 'new', 'ink']
+
+Actual Sentence :
+2014 01 07T15 25 39Z 2014 01 18T18 02 31Z Who is Mikaela Shiffrin
+Actual Summary :
+Who is Mikaela Shiffrin
+Our summary :
+['Who', 'is', 'Mikaela', 'Shiffrin']
+
+Actual Sentence :
+Trisha Yearwood and Garth Brooks are making a big move that has shocked some fans
+Actual Summary :
+Trisha Yearwood and Garth Brooks are making a big move
+Our summary :
+['Trisha', 'Yearwood', 'are', 'making', 'a', 'move']
+
+Actual Sentence :
+SOME commonly prescribed statins can impair memory but others do not British scientists have found
+Actual Summary :
+Statins can impair memory
+Our summary :
+['prescribed', 'statins', 'can', 'impair', 'memory']
+
+Actual Sentence :
+Seattle Mariners trade rumors have the team dealing Michael Morse to the Baltimore Orioles
+Actual Summary :
+Seattle Mariners trade rumors have
+Our summary :
+['Seattle', 'Mariners', 'trade', 'rumors', 'have', 'the', 'dealing', 'Michael', 'Morse']
+
+Actual Sentence :
+School will be closed for Greenview CUSD 200 because of the storm
+Actual Summary :
+School will be closed because of the storm
+Our summary :
+['School', 'will', 'be', 'closed', 'for', 'Greenview', 'CUSD']
+
+Actual Sentence :
+PORTERVILLE Calif A Porterville man will face murder charges again
+Actual Summary :
+PORTERVILLE man will face murder charges again
+Our summary :
+['A', 'Porterville', 'man', 'will', 'face', 'murder', 'charges']
+
+Actual Sentence :
+AC Milan midfielder Kaka will be eased back into action after returning to Serie A
+Actual Summary :
+Kaka will be eased back into action
+Our summary :
+['AC', 'Milan', 'midfielder', 'Kaka', 'will', 'be', 'eased', 'back']
+
+Actual Sentence :
+Three flu strains are circulating in Iowa the Iowa Department of Public Health reported Monday
+Actual Summary :
+Three flu strains are circulating in Iowa
+Our summary :
+['Three', 'flu', 'strains', 'are', 'circulating', 'in', 'Iowa']
+
+Actual Sentence :
+Finally the HTC One Max has been officially announced by HTC
+Actual Summary :
+The HTC One Max has been officially announced
+Our summary :
+['the', 'HTC', 'One', 'Max', 'has', 'been', 'announced', 'HTC']
+
+Actual Sentence :
+The city of Nampa got a little bit brighter Monday night
+Actual Summary :
+The city of Nampa got a little bit brighter
+Our summary :
+['The', 'city', 'of', 'Nampa', 'got', 'a', 'little', 'bit', 'brighter']
+
+Actual Sentence :
+Andy Garcia joins Max Steel movie in the role of Dr Miles Edwards
+Actual Summary :
+Andy Garcia joins Max Steel movie
+Our summary :
+['Andy', 'Garcia', 'joins', 'Max', 'Steel', 'movie']
+
+Actual Sentence :
+Stevan Ridley missed his third consecutive practice due to knee and thigh injuries
+Actual Summary :
+Stevan Ridley missed his third consecutive practice
+Our summary :
+['Stevan', 'Ridley', 'missed', 'his', 'third', 'consecutive', 'practice']
+
+Actual Sentence :
+Justine Silvaggio of Amherstburg says Toronto Mayor Rob Ford should step down
+Actual Summary :
+Rob Ford should step down
+Our summary :
+['Rob', 'Ford', 'should', 'step', 'down']
+
+Actual Sentence :
+New York NHL stars will again play in the Olympics next year in Sochi
+Actual Summary :
+NHL stars will play in Sochi
+Our summary :
+['New', 'York', 'NHL', 'stars', 'will', 'play', 'in', 'the', 'Olympics']
+
+Actual Sentence :
+Google is looking for the Fountain of Youth in its latest expansion beyond Internet search
+Actual Summary :
+Google is looking for the Fountain of Youth
+Our summary :
+['Google', 'is', 'looking', 'for', 'the', 'Fountain', 'of', 'Youth']
+
+Actual Sentence :
+Fresno State QB Derek Carr is unsure if he will throw at the NFL Combine
+Actual Summary :
+Derek Carr is unsure if he will throw at the NFL Combine
+Our summary :
+['Derek', 'Carr', 'is', 'unsure', 'will', 'throw']
+
+Actual Sentence :
+New Zealand is to ban shark finning within two years
+Actual Summary :
+New Zealand is to ban shark finning
+Our summary :
+['New', 'Zealand', 'is', 'to', 'ban', 'shark', 'finning']
+
+Actual Sentence :
+The fire that burned southeast of Idaho Falls on South Ammon Road is now out
+Actual Summary :
+The fire that burned southeast of Idaho Falls is
+Our summary :
+['The', 'fire', 'burned', 'southeast', 'of', 'Idaho', 'Falls', 'is', 'now', 'out']
+
+Actual Sentence :
+Crimestoppers has launched a campaign to tackle the rise in Asian gold theft across London
+Actual Summary :
+Crimestoppers has launched a campaign to tackle the rise in Asian gold theft
+Our summary :
+['Crimestoppers', 'has', 'launched', 'a', 'campaign', 'to', 'tackle', 'the', 'rise', 'in', 'theft']
+
+Actual Sentence :
+Ubinas volcano which became active again in September 2013 has erupted
+Actual Summary :
+Ubinas volcano has erupted
+Our summary :
+['Ubinas', 'volcano', 'has', 'erupted']
+
+Actual Sentence :
+Ronald and Donna Deaner celebrated their 50th wedding anniversary
+Actual Summary :
+Ronald celebrated their 50th anniversary
+Our summary :
+['Ronald', 'and', 'celebrated', 'their', '50th', 'wedding', 'anniversary']
+
+Actual Sentence :
+Maria Sharapova has hired tennis legend Jimmy Connors as her new coach
+Actual Summary :
+Maria Sharapova has hired Jimmy Connors
+Our summary :
+['Maria', 'Sharapova', 'has', 'hired', 'Jimmy', 'Connors', 'as', 'her', 'new', 'coach']
+
+Actual Sentence :
+Authorities say a Memphis grandmother was arrested after she called 911 for beer
+Actual Summary :
+A grandmother was arrested after she called 911 for beer
+Our summary :
+['a', 'Memphis', 'grandmother', 'was', 'arrested', 'after', 'she', 'called', '911', 'for', 'beer']
+
+Actual Sentence :
+The Reds have chosen Price to replace Dusty Baker as their next manager
+Actual Summary :
+The Reds have chosen Price to replace as their next manager
+Our summary :
+['The', 'Reds', 'have', 'chosen', 'Price', 'to', 'replace', 'Dusty', 'Baker']
+
+Actual Sentence :
+A FORMER hot food takeaway in Darwen is to be turned into a family home
+Actual Summary :
+A FORMER takeaway is to be turned into a family home
+Our summary :
+['A', 'FORMER', 'food', 'takeaway', 'is', 'to', 'be', 'turned', 'into', 'a', 'family', 'home']
+
+Actual Sentence :
+Mortgage fees are going up so where does Pa
+Actual Summary :
+Where does Pa
+Our summary :
+['Mortgage', 'fees', 'are', 'going', 'up']
+
+Actual Sentence :
+Queen will embark on a tour later this year with Adam Lambert as its frontman
+Actual Summary :
+Queen will embark on a tour with Adam Lambert
+Our summary :
+['Queen', 'will', 'embark', 'on', 'a', 'tour']
+
+Actual Sentence :
+Researchers at the American Journal of Medicine reveal what s really inside your chicken nuggets
+Actual Summary :
+What s really inside your chicken nuggets
+Our summary :
+['what', 's', 'really', 'inside', 'your', 'chicken', 'nuggets']
+
+Actual Sentence :
+A recent report from security firm Quarkslab reveals that Apple can read your iMessages
+Actual Summary :
+Apple can read your iMessages
+Our summary :
+['Apple', 'can', 'read', 'your', 'iMessages']
+
+Actual Sentence :
+Fuel and gas prices go up from today due to unavoidable global fluctuation in prices
+Actual Summary :
+Fuel and gas prices go from today
+Our summary :
+['Fuel', 'and', 'gas', 'prices', 'go', 'up']
+
+Actual Sentence :
+US Rep Bobby Scott of Virginia broke his jaw while playing tennis officials said
+Actual Summary :
+US Rep Bobby Scott broke his jaw
+Our summary :
+['Bobby', 'Scott', 'broke', 'his', 'jaw', 'while', 'playing']
+
+Actual Sentence :
+They carried banners saying Westport is proud to support Newtown 
+Actual Summary :
+Westport is proud to support Newtown
+Our summary :
+['Westport', 'is', 'proud', 'to', 'support', 'Newtown']
+
+Actual Sentence :
+An off duty Providence police officer is killed in a crash in Jamestown
+Actual Summary :
+An Providence police officer is killed in a crash
+Our summary :
+['An', 'police', 'officer', 'is', 'killed', 'in', 'a', 'crash']
+
+Actual Sentence :
+PHOENIX Authorities in Phoenix say former pro wrestler The Ultimate Warrior died of cardiovascular disease
+Actual Summary :
+The Ultimate Warrior died of cardiovascular disease
+Our summary :
+['PHOENIX', 'Authorities', 'wrestler', 'The', 'Ultimate', 'Warrior', 'died', 'of', 'cardiovascular', 'disease']
+
+Actual Sentence :
+The Boston Celtics waived forward Shavlik Randolph on Thursday
+Actual Summary :
+The Boston Celtics waived Shavlik Randolph
+Our summary :
+['The', 'Boston', 'Celtics', 'waived', 'forward', 'Shavlik', 'Randolph']
+
+Actual Sentence :
+ Ghana is becoming very very very expensive he lamented
+Actual Summary :
+Ghana is becoming very very expensive
+Our summary :
+['Ghana', 'is', 'becoming', 'very', 'expensive', 'he']
+
+Actual Sentence :
+All Dane County snowmobile trails re opened at noon on March 5 2014
+Actual Summary :
+All Dane County snowmobile trails re opened
+Our summary :
+['All', 'Dane', 'County', 'snowmobile', 'trails', 're', 'opened']
+
+Actual Sentence :
+An 11 year old boy has died after falling in the canal at Burnley yesterday
+Actual Summary :
+An boy has died after falling in the canal at Burnley
+Our summary :
+['An', 'boy', 'has', 'died', 'after', 'falling', 'in', 'the', 'canal']
+
+Actual Sentence :
+Sen Thad Cochran announced Friday he will seek reelection in 2014
+Actual Summary :
+Thad Cochran announced he will seek reelection in 2014
+Our summary :
+['Thad', 'Cochran', 'announced', 'will', 'seek', 'reelection']
+
+Actual Sentence :
+Muskingum University in New Concord is closed after a bomb threat on Thursday
+Actual Summary :
+Muskingum University is closed after a bomb threat
+Our summary :
+['Muskingum', 'University', 'is', 'closed', 'after', 'a', 'bomb', 'threat']
+
+Actual Sentence :
+Fabiani s Wailea opened in late October for both breakfast and lunch
+Actual Summary :
+Fabiani s Wailea opened
+Our summary :
+['Fabiani', 's', 'Wailea', 'opened']
+
+Actual Sentence :
+Tesla outsells Porsche and seven other automobile makers in California this year
+Actual Summary :
+Tesla outsells Porsche
+Our summary :
+['Tesla', 'outsells', 'Porsche']
+
+Actual Sentence :
+What was the message of Jesus Christ while He was here on Earth
+Actual Summary :
+What was the message of Jesus Christ
+Our summary :
+['What', 'was', 'the', 'message', 'of', 'Jesus', 'Christ']
+
+Actual Sentence :
+Edmund Reggie a longtime political stalwart and former Crowley City died Tuesday morning
+Actual Summary :
+Edmund Reggie a longtime political stalwart died
+Our summary :
+['Edmund', 'Reggie', 'a', 'longtime', 'stalwart', 'and', 'former', 'Crowley', 'City', 'died']
+
+Actual Sentence :
+No 23 team engine tuner Rick Cecil explains how the cooling unit works during qualifying
+Actual Summary :
+How the cooling unit works during qualifying
+Our summary :
+['how', 'the', 'cooling', 'unit', 'works', 'during', 'qualifying']
+
+Actual Sentence :
+A New Mexico man has been convicted of impersonating a police officer and sexual assault
+Actual Summary :
+A New Mexico man has been convicted of impersonating a officer and assault
+Our summary :
+['A', 'New', 'Mexico', 'man', 'has', 'been', 'convicted', 'of', 'impersonating', 'a', 'officer']
+
+Actual Sentence :
+Award winning jazz pianist Marian McPartland has died at the age of 95
+Actual Summary :
+Jazz pianist Marian McPartland has died at the age of 95
+Our summary :
+['Marian', 'McPartland', 'has', 'died', 'at', 'the', 'age', 'of', '95']
+
+Actual Sentence :
+A woman has allegedly been sexually assaulted in Orangeville in a residential area
+Actual Summary :
+A woman has been sexually assaulted
+Our summary :
+['A', 'woman', 'has', 'allegedly', 'been', 'sexually', 'assaulted', 'in', 'Orangeville']
+
+Actual Sentence :
+Robert Pattinson has confessed that he became a model to meet girls
+Actual Summary :
+Robert Pattinson became a model to meet girls
+Our summary :
+['Robert', 'Pattinson', 'became', 'a', 'model', 'to', 'meet', 'girls']
+
+Actual Sentence :
+The Cedar Point amusement park has cancelled its wedding contest
+Actual Summary :
+The amusement park has cancelled its wedding contest
+Our summary :
+['The', 'Cedar', 'Point', 'amusement', 'park', 'has', 'cancelled', 'its', 'wedding', 'contest']
+
+Actual Sentence :
+He gets to kiss his onscreen ladies around 27 times in his upcoming movie
+Actual Summary :
+He gets to kiss around 27 times
+Our summary :
+['He', 'gets', 'to', 'kiss', 'his', 'onscreen', 'ladies']
+
+Actual Sentence :
+Theres a school papers buy 10 in the girls dorm
+Actual Summary :
+A school papers buy 10
+Our summary :
+['Theres', 'a', 'papers', 'buy', '10', 'dorm']
+
+Actual Sentence :
+Greenwood recaps his trio of visits with Fox Sports and Scout com
+Actual Summary :
+Greenwood recaps his trio of visits
+Our summary :
+['Greenwood', 'recaps', 'his', 'trio', 'visits']
+
+Actual Sentence :
+Activists are gathering all over the country Wednesday calling for an increase to minimum wage
+Actual Summary :
+Activists are gathering calling for an increase to minimum wage
+Our summary :
+['Activists', 'are', 'gathering', 'all', 'over']
+
+Actual Sentence :
+Arsenal manager Arsene Wenger will reportedly attend an exhibition focusing on British Jews and football
+Actual Summary :
+Arsenal manager Arsene Wenger will attend an exhibition focusing on British Jews
+Our summary :
+['Arsene', 'Wenger', 'will', 'attend', 'an', 'exhibition', 'focusing', 'on', 'Jews']
+
+Actual Sentence :
+Chief minister Mamata Banerjee will begin her mini Writers tour in the districts from Tuesday
+Actual Summary :
+Mamata Banerjee will begin her mini Writers tour
+Our summary :
+['Mamata', 'Banerjee', 'will', 'begin', 'her', 'mini', 'Writers', 'tour']
+
+Actual Sentence :
+Lindsay Lohan has admitted that dating has been a distraction for her in the past
+Actual Summary :
+Lindsay Lohan has admitted dating has been a distraction in the past
+Our summary :
+['Lindsay', 'Lohan', 'has', 'dating', 'has', 'been', 'a', 'distraction']
+
+Actual Sentence :
+Minecraft has an official release date for the PlayStation 3
+Actual Summary :
+Minecraft has an date for the PlayStation 3
+Our summary :
+['Minecraft', 'has', 'an', 'release', 'date', 'for', 'PlayStation', '3']
+
+Actual Sentence :
+Elizabeth Olsen is reportedly engaged to her actor boyfriend Boyd Holbrook
+Actual Summary :
+Elizabeth Olsen is engaged to her boyfriend Boyd Holbrook
+Our summary :
+['Elizabeth', 'Olsen', 'is', 'engaged', 'to', 'her']
+
+Actual Sentence :
+During the meeting the United Way announced it reached its campaign goal of 440 000
+Actual Summary :
+The United Way reached its campaign goal
+Our summary :
+['the', 'United', 'Way', 'reached', 'its', 'campaign', 'goal', 'of', '440', '000']
+
+Actual Sentence :
+los angeles model kelly brook is engaged to former gladiators star david mcintosh
+Actual Summary :
+Kelly brook is engaged to gladiators david mcintosh
+Our summary :
+['kelly', 'brook', 'is', 'engaged', 'david', 'mcintosh']
+
+Actual Sentence :
+Crimea was hit by partial power outages yesterday for unknown reasons
+Actual Summary :
+Crimea was hit by partial power outages
+Our summary :
+['Crimea', 'was', 'hit', 'by', 'partial', 'power', 'outages']
+
+Actual Sentence :
+The three Williamsville high schools have scheduled upcoming open houses and orientation programs
+Actual Summary :
+The three Williamsville high schools have scheduled open houses
+Our summary :
+['The', 'three', 'Williamsville', 'high', 'schools', 'have', 'scheduled', 'upcoming', 'open', 'houses']
+
+Actual Sentence :
+Mikaela Shiffrin defended and retained her World Cup slalom title this weekend
+Actual Summary :
+Mikaela Shiffrin defended and retained her World Cup title
+Our summary :
+['Mikaela', 'Shiffrin', 'defended', 'and', 'retained']
+
+Actual Sentence :
+Sundance Channel launches in Latin America thanks to a partnership with DirectTV
+Actual Summary :
+Sundance Channel launches in Latin America
+Our summary :
+['Sundance', 'Channel', 'launches', 'in', 'Latin', 'America']
+
+Actual Sentence :
+Two firefighters were injured after an early morning fire in Lakewood on Saturday
+Actual Summary :
+Two firefighters were injured after an early morning fire
+Our summary :
+['Two', 'firefighters', 'were', 'injured', 'after', 'an', 'early', 'fire']
+
+Actual Sentence :
+Congressman Jeff Duncan has filed for re election for the US House of Representatives
+Actual Summary :
+Jeff Duncan has filed for re election
+Our summary :
+['Jeff', 'Duncan', 'has', 'filed', 'for', 're', 'election']
+
+Actual Sentence :
+Fruit of the Loom announced Thursday it will close the company s Jamestown Ky
+Actual Summary :
+Fruit of the Loom will close the company s Jamestown Ky
+Our summary :
+['Fruit', 'will', 'close', 'the', 'company', 's', 'Jamestown', 'Ky']
+
+Actual Sentence :
+The Kansas State Wildcats host the struggling Texas Christian Horned Frogs Wednesday night in Manhattan
+Actual Summary :
+The Kansas State Wildcats host the struggling Texas Christian Horned Frogs night
+Our summary :
+['The', 'Kansas', 'State', 'Wildcats', 'host', 'the', 'struggling', 'Texas', 'Christian', 'Horned', 'Frogs']
+
+Actual Sentence :
+Al Jazeera the Qatar headquartered news network has launched in New Zealand
+Actual Summary :
+Al Jazeera has launched in New Zealand
+Our summary :
+['Al', 'Jazeera', 'network', 'has', 'launched', 'in', 'New', 'Zealand']
+
+Actual Sentence :
+Now President Aquino has taken charge of the massive relief operations on Thursday night
+Actual Summary :
+Aquino has taken charge of the relief operations
+Our summary :
+['Aquino', 'has', 'taken', 'charge', 'of', 'the', 'massive', 'relief', 'operations']
+
+Actual Sentence :
+Power has been restored to Ocracoke Island in Hyde County
+Actual Summary :
+Power has been restored to Ocracoke Island
+Our summary :
+['Power', 'has', 'been', 'restored', 'to', 'Ocracoke', 'Island']
+
+Actual Sentence :
+Quebec police searched two homes belonging to the fringe haredi Orthodox sect Lev Tahor
+Actual Summary :
+Quebec police searched two homes belonging to the haredi Orthodox sect
+Our summary :
+['Quebec', 'police', 'searched', 'two', 'homes', 'belonging', 'to', 'the', 'Orthodox', 'sect', 'Lev']
+
+Actual Sentence :
+South beauty Samantha Ruth Prabhu is set to auction her clothes for a charitable cause
+Actual Summary :
+Samantha Ruth Prabhu is set to auction her clothes
+Our summary :
+['Samantha', 'Ruth', 'Prabhu', 'is', 'set', 'to', 'auction', 'her', 'clothes']
+
+Actual Sentence :
+Ever wonder how fit you are
+Actual Summary :
+How fit you are
+Our summary :
+['how', 'fit', 'you', 'are']
+
+Actual Sentence :
+Dutch DJ and Grammy winning producer Afrojack has released his new single Ten Feet Tall 
+Actual Summary :
+Afrojack has released his new single Ten Feet Tall
+Our summary :
+['Afrojack', 'has', 'released', 'his', 'new', 'single', 'Ten', 'Feet', 'Tall']
+
+Actual Sentence :
+She said I definitely want more children
+Actual Summary :
+She said I want more children
+Our summary :
+['I', 'want', 'more', 'children']
+
+Actual Sentence :
+AAP leader Somnath Bharti was beaten up by alleged BJP workers in Varanasi on Wednesday
+Actual Summary :
+AAP leader Somnath Bharti was beaten up in Varanasi
+Our summary :
+['Somnath', 'Bharti', 'was', 'beaten', 'up', 'by', 'BJP', 'workers']
+
+Actual Sentence :
+Former pay TV service TopTV has revealed it will relaunch as StarSat
+Actual Summary :
+TopTV will relaunch as StarSat
+Our summary :
+['TopTV', 'will', 'relaunch', 'as', 'StarSat']
+
+Actual Sentence :
+Beyonce held an album launch party at an arcade in New York last week
+Actual Summary :
+Beyonce held an album launch party at an arcade
+Our summary :
+['Beyonce', 'held', 'an', 'album', 'launch', 'party', 'at', 'an', 'York']
+
+Actual Sentence :
+Raw garlic may prevent lung cancer a new Chinese study has found
+Actual Summary :
+Raw garlic may prevent cancer
+Our summary :
+['Raw', 'garlic', 'may', 'prevent', 'lung', 'cancer', 'a', 'has', 'found']
+
+Actual Sentence :
+Ville Leino took a dive on this play
+Actual Summary :
+Ville Leino took a dive
+Our summary :
+['Ville', 'Leino', 'took', 'a', 'dive']
+
+Actual Sentence :
+Rolling Stone reports that Arcade Fire will appear on The Colbert Report on Monday
+Actual Summary :
+Arcade Fire will appear on The Colbert Report
+Our summary :
+['Arcade', 'Fire', 'will', 'appear', 'on', 'The', 'Colbert', 'Report']
+
+Actual Sentence :
+Kate Gosselin is reportedly being eyed as a contestant for Celebrity Apprentice
+Actual Summary :
+Kate Gosselin is being eyed as a contestant for Celebrity Apprentice
+Our summary :
+['Kate', 'Gosselin', 'is', 'being', 'eyed', 'as', 'a', 'contestant', 'for', 'Celebrity', 'Apprentice']
+
+Actual Sentence :
+Tisdale 26 is engaged to her boyfriend Christopher French of the band Annie Automatic
+Actual Summary :
+Tisdale is engaged
+Our summary :
+['Tisdale', '26', 'is', 'engaged']
+
+Actual Sentence :
+A man injured in a skydiving accident in Suffolk Sunday remains in critical condition
+Actual Summary :
+A man injured in a skydiving accident remains
+Our summary :
+['A', 'man', 'injured', 'in', 'a', 'skydiving', 'accident', 'remains', 'in', 'critical', 'condition']
+
+Actual Sentence :
+Canadian pop group Hedley will be returning to Estevan early in 2014
+Actual Summary :
+Hedley will be returning to Estevan
+Our summary :
+['group', 'Hedley', 'will', 'be', 'returning', 'to', 'Estevan']
+
+Actual Sentence :
+Nebraska Rep Lee Terry has filed for re election
+Actual Summary :
+Lee Terry has filed for re election
+Our summary :
+['Rep', 'Lee', 'Terry', 'has', 'filed', 'for', 're', 'election']
+
+Actual Sentence :
+It has been revealed that patient safety has been put at risk at Dunedin Hospital
+Actual Summary :
+Patient safety has been put at risk
+Our summary :
+['patient', 'safety', 'has', 'been', 'put', 'at', 'risk', 'at', 'Dunedin', 'Hospital']
+
+Actual Sentence :
+Monotony collapses time novelty unfolds it
+Actual Summary :
+Monotony collapses time
+Our summary :
+['Monotony', 'collapses', 'time', 'novelty', 'unfolds']
+
+Actual Sentence :
+Computer Sciences Corp issued an update on its FY14 earnings guidance on Tuesday morning
+Actual Summary :
+Computer Sciences Corp issued on its FY14 earnings guidance
+Our summary :
+['Computer', 'Sciences', 'Corp', 'issued', 'an', 'on', 'its', 'FY14', 'earnings', 'guidance']
+
+Actual Sentence :
+1030amOfficial payday advances dierct lendsers authority website for Leeds providing information on local services
+Actual Summary :
+Payday advances dierct lendsers website
+Our summary :
+['1030amOfficial', 'payday', 'advances', 'website']
+
+Actual Sentence :
+A bartender was tipped 17 500 after selling a winning lottery ticket to a customer
+Actual Summary :
+A bartender was tipped 17 500
+Our summary :
+['A', 'bartender', 'was', 'tipped', '17', '500', 'after', 'selling', 'a', 'winning', 'lottery', 'ticket']
+
+Actual Sentence :
+Yankees catching prospect Gary Sanchez isn t worried about getting traded he said
+Actual Summary :
+Yankees catching prospect Gary Sanchez isn t worried
+Our summary :
+['Gary', 'Sanchez', 'isn', 't', 'worried', 'about', 'getting', 'traded', 'he']
+
+Actual Sentence :
+Sierra Leone striker Kei Kamara tweets that he has been granted his Middlesbrough work permit
+Actual Summary :
+Kei Kamara has been granted his Middlesbrough work permit
+Our summary :
+['Kei', 'Kamara', 'tweets', 'has', 'been', 'granted', 'his', 'Middlesbrough', 'work', 'permit']
+
+Actual Sentence :
+A cat fight is brewing among neighbors in a historic district in northwest Oklahoma City
+Actual Summary :
+A cat fight is brewing among neighbors in a historic district
+Our summary :
+['A', 'cat', 'fight', 'is', 'brewing', 'among', 'neighbors']
+
+Actual Sentence :
+Canadian figure skating star Kaetlyn Osmond will visit Marystown on Sunday
+Actual Summary :
+Kaetlyn Osmond will visit Marystown
+Our summary :
+['skating', 'star', 'Kaetlyn', 'Osmond', 'will', 'visit', 'Marystown']
+
